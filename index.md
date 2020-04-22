@@ -25,8 +25,8 @@ Here are some ground rules for these seminars:
 
 Each seminar starts at [13.00 CEST](https://time.is/de/CEST) **sharp**.
 
-Date           Speaker               Title                              Slides                                Video
--------------   --------------------  -----------------------------      ------------------------------------  ------------
-April 29        Patrick Tardivel      Screening rules for the lasso      [/slides/apr29-tardivel.pdf](slides)  [youtube]()
+| Date     | Speaker          | Title                         | Slides                               | Video |
+| :------- | :--------------- | :---------------------------- | :----------------------------------- | :---- |
+| April 29 | Patrick Tardivel | Screening rules for the lasso | [/slides/apr29-tardivel.pdf](slides) |       |
 
 ## Other One World Seminars
