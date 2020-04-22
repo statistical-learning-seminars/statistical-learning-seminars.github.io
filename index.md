@@ -1,4 +1,4 @@
-# One World Statistical Learning Seminars
+# One World
 
 The effects of CoViD-19 pervades through research communities across the globe,
 causing cancelled conferences, post-poned research visits, and suspended
