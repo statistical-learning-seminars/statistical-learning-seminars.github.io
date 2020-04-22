@@ -33,7 +33,7 @@ Each seminar starts at [TBA CEST](https://time.is/CEST) **sharp**.
 
 | Date     | Speaker          | Title                         | Resources                            |
 | :------- | :--------------- | :---------------------------- | :----------------------------------- |
-| April 29 | Patrick Tardivel | Screening rules for the lasso | [slides](/slides/apr29-tardivel.pdf) |
+| TBA      | Patrick Tardivel | Screening rules for the lasso | [slides]()                           |
 
 # Organization
 
