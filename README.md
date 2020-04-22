@@ -1,3 +1,3 @@
-# One World Statistical Learning Seminars
+# Statistical Learning Seminars
 
-This repository contains the source files for <https://owsl-seminars.github.io/>.
+This repository contains the source files for <https://statistical-learning-seminars.github.io/>.
