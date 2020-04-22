@@ -29,7 +29,7 @@ TBA
 
 # Program
 
-Each seminar starts at [TBA CEST](https://time.is/de/CEST) **sharp**.
+Each seminar starts at [TBA CEST](https://time.is/CEST) **sharp**.
 
 | Date     | Speaker          | Title                         | Resources                            |
 | :------- | :--------------- | :---------------------------- | :----------------------------------- |
