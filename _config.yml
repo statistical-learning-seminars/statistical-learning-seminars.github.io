@@ -2,6 +2,7 @@ theme: jekyll-theme-minimal
 
 title: One World Statistical Learning Seminars
 description: Online seminar series on statistical learning and related topics
+logo: logo.png
 
 github:
   is_project_page: false
