@@ -25,11 +25,11 @@ Here are some ground rules for these seminars:
 
 # Zoom link
 
-**To be announced.**
+TBA
 
 # Program
 
-Each seminar starts at [13.00 CEST](https://time.is/de/CEST) **sharp**.
+Each seminar starts at [TBA CEST](https://time.is/de/CEST) **sharp**.
 
 | Date     | Speaker          | Title                         | Resources                            |
 | :------- | :--------------- | :---------------------------- | :----------------------------------- |
@@ -38,7 +38,7 @@ Each seminar starts at [13.00 CEST](https://time.is/de/CEST) **sharp**.
 # Organization
 
 This seminar series is organized by 
-[The Department of Mathematics, Wrocław University]() and 
+[The Department of Mathematics, Wrocław University](https://www.math.uni.wroc.pl) and 
 [The Department of Statistics, Lund University](https://stat.lu.se).
 
 # Other One World Seminars
