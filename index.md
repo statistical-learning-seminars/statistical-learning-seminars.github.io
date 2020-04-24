@@ -33,7 +33,7 @@ Each seminar starts at [16:30 CEST](https://www.thetimezoneconverter.com/?t=16%3
 
 | Date  | Speaker          | Title                         | Resources  |
 | :---- | :--------------- | :---------------------------- | :--------- |
-| May 1 | Patrick Tardivel | Screening rules for the lasso | [slides]() |
+| May 8 | Patrick Tardivel | Screening rules for the lasso | [slides]() |
 
 # Organization
 
