@@ -29,11 +29,11 @@ TBA
 
 # Program
 
-Each seminar starts at [TBA CEST](https://time.is/CEST) **sharp**.
+Each seminar starts at [16:30 CEST](https://www.thetimezoneconverter.com/?t=16%3A30%20pm&tz=Warsaw&) **sharp**.
 
-| Date     | Speaker          | Title                         | Resources                            |
-| :------- | :--------------- | :---------------------------- | :----------------------------------- |
-| TBA      | Patrick Tardivel | Screening rules for the lasso | [slides]()                           |
+| Date  | Speaker          | Title                         | Resources  |
+| :---- | :--------------- | :---------------------------- | :--------- |
+| May 1 | Patrick Tardivel | Screening rules for the lasso | [slides]() |
 
 # Organization
 
