@@ -11,7 +11,8 @@ series in statistical learning.
 
 We are going to use [zoom](https://zoom.us/). The seminar will be 1 hour
 long, with 45 minutes allocated to the presentation itself and 15 minutes to
-discussions afterwards.
+discussions afterwards. The seminar is weekly and will run
+at least until June 12.
 
 Here are some ground rules for these seminars:
 
@@ -19,9 +20,6 @@ Here are some ground rules for these seminars:
 - Please turn off your microphone when you are not speaking.
 - If you wish to ask a question, use the **raise hand** button in the
   **participants** window.
-- Since it is not possible (practical) to applaud after a talk, please
-  consider waving your hands to the camera at the end of the talk to
-  show your appreciation.
 
 # Zoom link
 
@@ -31,9 +29,9 @@ Here are some ground rules for these seminars:
 
 Each seminar starts at [16:30 CEST](https://www.thetimezoneconverter.com/?t=16%3A30%20pm&tz=Warsaw&) **sharp**.
 
-| Date  | Speaker          | Title                         | Resources  |
-| :---- | :--------------- | :---------------------------- | :--------- |
-| May 8 | Patrick Tardivel | Screening rules for the lasso | [slides]() |
+| Date  | Speaker                         | Title                                   | Resources  |
+| :---- | :------------------------------ | :-------------------------------------- | :--------- |
+| May 8 | Patrick Tardivel, Johan Larsson | Screening rules for the lasso and SLOPE | [slides]() |
 
 # Organization
 
