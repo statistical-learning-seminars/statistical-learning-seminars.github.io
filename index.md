@@ -25,7 +25,7 @@ Here are some ground rules for these seminars:
 
 # Zoom link
 
-TBA
+<https://lu-se.zoom.us/j/65067339175>
 
 # Program
 
