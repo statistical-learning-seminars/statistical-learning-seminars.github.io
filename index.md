@@ -28,11 +28,9 @@ Here are some ground rules for these seminars:
 # Program
 
 Each seminar starts at [16:30 CEST](https://www.thetimezoneconverter.com/?t=16%3A30%20pm&tz=Warsaw&) **sharp**.
-
-| Date  | Speaker                         | Title                                   | Resources  |
-| :---- | :------------------------------ | :-------------------------------------- | :--------- |
-| May 8 | Patrick Tardivel, Johan Larsson | Screening rules for the lasso and SLOPE | [slides]() |
-
+| Date  | Speaker                         | Title                                   | Resources                                        |
+| :---- | :------------------------------ | :-------------------------------------- | :----------------------------------------------- |
+| May 8 | Patrick Tardivel, Johan Larsson | Screening rules for the lasso and SLOPE | [Johan's slides](slides\200508-johanlarsson.pdf) |
 # Organization
 
 This seminar series is organized by 
