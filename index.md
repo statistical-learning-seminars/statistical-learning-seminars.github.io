@@ -29,9 +29,15 @@ Here are some ground rules for these seminars:
 
 Each seminar starts at [16:30 CEST](https://www.thetimezoneconverter.com/?t=16%3A30%20pm&tz=Warsaw&) **sharp**.
 
-| Date  | Speaker                         | Title                                   | Resources                                        |
-| :---- | :------------------------------ | :-------------------------------------- | :----------------------------------------------- |
-| May 8 | Patrick Tardivel, Johan Larsson | Screening rules for the lasso and SLOPE | [Johan's slides](slides\200508-johanlarsson.pdf) |
+| Date  | Speaker          | Title                               | Resources                                                                             |
+| :---- | :--------------- | :---------------------------------- | :------------------------------------------------------------------------------------ |
+| May 8 | Patrick Tardivel | Screening rules for the lasso       | [presentation](https://vimeo.com/416630058)                                           |
+| May 8 | Johan Larsson    | The strong screening rule for SLOPE | [slides](slides\200508-johanlarsson.pdf), [presentation](https://vimeo.com/416633997) |
+
+# Recordings
+
+Recordings of the talks on this seminar are hosted at
+<https://vimeo.com/channels/statlearnseminar>.
 
 # Organization
 
