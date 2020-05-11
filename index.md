@@ -27,12 +27,12 @@ Here are some ground rules for these seminars:
 
 # Program
 
-Each seminar starts at [16:30 CEST](https://www.thetimezoneconverter.com/?t=16%3A30%20pm&tz=Warsaw&) **sharp**.
+Each seminar starts at [16:30 CEST](https://www.thetimezoneconverter.com/?t=16%3A30%20pm&tz=Warsaw&).
 
-| Date  | Speaker          | Title                               | Resources                                                                             |
-| :---- | :--------------- | :---------------------------------- | :------------------------------------------------------------------------------------ |
-| May 8 | Patrick Tardivel | Screening rules for the lasso       | [presentation](https://vimeo.com/416630058)                                           |
-| May 8 | Johan Larsson    | The strong screening rule for SLOPE | [slides](slides\200508-johanlarsson.pdf), [presentation](https://vimeo.com/416633997) |
+| Date  | Speaker          | Title                               | Resources                                                                                                                       |
+| :---- | :--------------- | :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
+| May 8 | Patrick Tardivel | Screening rules for the lasso       | [presentation](https://vimeo.com/416630058)                                                                                     |
+| May 8 | Johan Larsson    | The strong screening rule for SLOPE | [slides](slides\200508-johanlarsson.pdf), [presentation](https://vimeo.com/416633997), [paper](http://arxiv.org/abs/2005.03730) |
 
 # Recordings
 
