@@ -71,6 +71,8 @@ neurodegenerative diseases and physical activity as well as statistical areas
 including semiparametric regression, functional data analysis, brain imaging 
 and intensively-collected longitudinal data. 
 
+[calendar invitation](https://lu-se.zoom.us/meeting/u5Etce6rrTIrHdGmDxIUKT33_HsILcrt6Tui/ics?icsToken=98tyKu-trj0tGdecsR6CR_MMAo_oKOnztlhcgqd6kTv9KhV4VlClCcpRG558AsyG)
+
 ## Previous talks
 
 | Date  | Speaker          | Title                               | Resources                                                                                                                       |
