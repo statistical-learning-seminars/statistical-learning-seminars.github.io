@@ -34,13 +34,10 @@ at least until June 12. Each seminar starts at
 
 ### Friday, May 22
 
-**Jaroslaw Harezlak**: Brain imaging and wearable devices; statistical
-learning to the rescue
-
-<details>
-   <summary>Abstract</summary>
-   
-   The amount of medical data collected has been growing exponentially 
+- **Speaker**: Jaroslaw Harezlak
+- **Title**: Brain imaging and wearable devices; statistical
+  learning to the rescue
+- **Abstract**: The amount of medical data collected has been growing exponentially 
    over the past few decades. This growth in data acquisition has not been, 
    unfortunately, paralleled by the same growth rate of statistical learning 
    methods’ development. In my talk, I will give a brief overview of the analytical
@@ -64,12 +61,7 @@ learning to the rescue
       upright and ambulatory behavior. A number of algorithms extracting
       features of physical activity and their association with health outcomes 
       will be presented.
-</details>
-
-<details>
-   <summary>Biography</summary>
-   
-   Dr. Harezlak is a Professor and an Interim Co-chair of the 
+- **Biography**: Dr. Harezlak is a Professor and an Interim Co-chair of the 
    Department of Epidemiology and Biostatistics at the Indiana University 
    School of Public Health-Bloomington, U.S.A. After graduating from Harvard 
    University and 2 years of post-doctoral training at the Harvard School of 
@@ -80,9 +72,9 @@ learning to the rescue
    neurodegenerative diseases and physical activity as well as statistical areas 
    including semiparametric regression, functional data analysis, brain imaging 
    and intensively-collected longitudinal data.
-</details>
+- [calendar invitation**](https://lu-se.zoom.us/meeting/u5Etce6rrTIrHdGmDxIUKT33_HsILcrt6Tui/ics?icsToken=98tyKu-trj0tGdecsR6CR_MMAo_oKOnztlhcgqd6kTv9KhV4VlClCcpRG558AsyG)
 
-[calendar invitation](https://lu-se.zoom.us/meeting/u5Etce6rrTIrHdGmDxIUKT33_HsILcrt6Tui/ics?icsToken=98tyKu-trj0tGdecsR6CR_MMAo_oKOnztlhcgqd6kTv9KhV4VlClCcpRG558AsyG)
+
 
 ## Previous talks
 
