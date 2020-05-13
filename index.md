@@ -1,3 +1,24 @@
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script
+  type="text/javascript"
+  charset="utf-8"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+>
+</script>
+<script
+  type="text/javascript"
+  charset="utf-8"
+  src="https://vincenttam.github.io/javascripts/MathJaxLocal.js"
+>
+</script>
+
 # One World
 
 The effects of CoViD-19 pervades through research communities across the globe,
@@ -59,20 +80,6 @@ at least until June 12. Each seminar starts at
    statistical areas including semiparametric regression, functional data 
    analysis, brain imaging and intensively-collected longitudinal data.
    
-   Variable selection is a fundamental challenge, if one works with large-scale data sets, that 
-the number of predictors significantly exceeds the number of observations. In many practical 
-problems (from genetics or biology) finding a small set of significant predictors is as important 
-as accurate estimation or prediction.
-
-We investigate the variable selection problem in the single index model $Y=g(beta'X,epsilon)$, 
-where $g$ is unknown function. Moreover, we make no assumptions on the distribution of errors, 
-existence of their moments etc. 
-
-We propose a computationally fast variable selection procedure, which is based on standard Lasso 
-with response variables replaced by their ranks. If response variables are binary, our approach is 
-even simpler: we just treat their class labels as they were numbers and apply standard Lasso. We 
-present theoretical and numerical results describing variable selection properties of the methods.
-
 ### Friday, May 29, 16:30 CEST
 
 - **Speaker**: Wojciech Rejchel
