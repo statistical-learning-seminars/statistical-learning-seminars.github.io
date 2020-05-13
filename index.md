@@ -32,44 +32,53 @@ at least until June 12. Each seminar starts at
 
 ## Upcoming talks
 
-### May 22, Jaroslaw Harezlak: Brain imaging and wearable devices; statistical learning to the rescue
+### Frdiay, May 22
 
-**ABSTRACT**: The amount of medical data collected has been growing exponentially 
-over the past few decades. This growth in data acquisition has not been, 
-unfortunately, paralleled by the same growth rate of statistical learning 
-methods’ development. In my talk, I will give a brief overview of the analytical
-methods developed by my group and their applications in the medical and public 
-health areas. Specifically, (1) regularization methods applied to the structural
-brain imaging data and (2) signal processing techniques utilized in extracting
-physical activity information from the raw accelerometry data will be 
-emphasized. 
+**Jaroslaw Harezlak**: Brain imaging and wearable devices; statistical
+learning to the rescue
 
-1. A challenging problem in the brain imaging research is a principled 
-   incorporation of information from different imaging modalities in 
-   regression models. Frequently, data from each modality is analyzed 
-   separately using, for instance, dimensionality reduction techniques, 
-   which result in a loss of information. We proposed a class of novel 
-   regularization method to estimate the association between the brain 
-   structure features and a scalar outcome within the generalized linear 
-   regression framework.
-2. Quantification of physical activity in a free-living environment is 
-   a challenging task. I will summarize our work utilizing data collected 
-   from the tri-axial wrist-worn accelerometers quantifying sedentary, 
-   upright and ambulatory behavior. A number of algorithms extracting
-   features of physical activity and their association with health outcomes 
-   will be presented.
- 
-**BIOGRAPHY**: Dr. Harezlak is a Professor and an Interim Co-chair of the 
-Department of Epidemiology and Biostatistics at the Indiana University 
-School of Public Health-Bloomington, U.S.A. After graduating from Harvard 
-University and 2 years of post-doctoral training at the Harvard School of 
-Public Health, he joined Indiana University where he has been since. He has 
-held a visiting appointment at Johns Hopkins University, Baltimore, U.S.A. 
-and is an adjunct professor at the University of Wroclaw, Poland. His interests
-span a number of medical areas including mild traumatic brain injury, 
-neurodegenerative diseases and physical activity as well as statistical areas 
-including semiparametric regression, functional data analysis, brain imaging 
-and intensively-collected longitudinal data. 
+<details>
+   <summary>Abstract</summary>
+   The amount of medical data collected has been growing exponentially 
+   over the past few decades. This growth in data acquisition has not been, 
+   unfortunately, paralleled by the same growth rate of statistical learning 
+   methods’ development. In my talk, I will give a brief overview of the analytical
+   methods developed by my group and their applications in the medical and public 
+   health areas. Specifically, (1) regularization methods applied to the structural
+   brain imaging data and (2) signal processing techniques utilized in extracting
+   physical activity information from the raw accelerometry data will be 
+   emphasized. 
+
+   1. A challenging problem in the brain imaging research is a principled 
+      incorporation of information from different imaging modalities in 
+      regression models. Frequently, data from each modality is analyzed 
+      separately using, for instance, dimensionality reduction techniques, 
+      which result in a loss of information. We proposed a class of novel 
+      regularization method to estimate the association between the brain 
+      structure features and a scalar outcome within the generalized linear 
+      regression framework.
+   2. Quantification of physical activity in a free-living environment is 
+      a challenging task. I will summarize our work utilizing data collected 
+      from the tri-axial wrist-worn accelerometers quantifying sedentary, 
+      upright and ambulatory behavior. A number of algorithms extracting
+      features of physical activity and their association with health outcomes 
+      will be presented.
+</details>
+
+<details>
+   <summary>Biography</summary>
+   Dr. Harezlak is a Professor and an Interim Co-chair of the 
+   Department of Epidemiology and Biostatistics at the Indiana University 
+   School of Public Health-Bloomington, U.S.A. After graduating from Harvard 
+   University and 2 years of post-doctoral training at the Harvard School of 
+   Public Health, he joined Indiana University where he has been since. He has 
+   held a visiting appointment at Johns Hopkins University, Baltimore, U.S.A. 
+   and is an adjunct professor at the University of Wroclaw, Poland. His interests
+   span a number of medical areas including mild traumatic brain injury, 
+   neurodegenerative diseases and physical activity as well as statistical areas 
+   including semiparametric regression, functional data analysis, brain imaging 
+   and intensively-collected longitudinal data.
+</details>
 
 [calendar invitation](https://lu-se.zoom.us/meeting/u5Etce6rrTIrHdGmDxIUKT33_HsILcrt6Tui/ics?icsToken=98tyKu-trj0tGdecsR6CR_MMAo_oKOnztlhcgqd6kTv9KhV4VlClCcpRG558AsyG)
 
