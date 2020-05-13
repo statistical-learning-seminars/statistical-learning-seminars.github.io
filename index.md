@@ -39,6 +39,7 @@ learning to the rescue
 
 <details>
    <summary>Abstract</summary>
+   
    The amount of medical data collected has been growing exponentially 
    over the past few decades. This growth in data acquisition has not been, 
    unfortunately, paralleled by the same growth rate of statistical learning 
@@ -67,6 +68,7 @@ learning to the rescue
 
 <details>
    <summary>Biography</summary>
+   
    Dr. Harezlak is a Professor and an Interim Co-chair of the 
    Department of Epidemiology and Biostatistics at the Indiana University 
    School of Public Health-Bloomington, U.S.A. After graduating from Harvard 
