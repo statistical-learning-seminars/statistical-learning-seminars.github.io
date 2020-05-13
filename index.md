@@ -85,7 +85,7 @@ at least until June 12. Each seminar starts at
 - **Speaker**: Wojciech Rejchel
 - **Title**: Fast and robust procedures in high-dimensional variable selection
 - **Abstract**: We investigate the variable selection problem in the single 
-   index model $Y=g(beta'X,epsilon)$, where $g$ is unknown function. Moreover,
+   index model $Y=g(\beta'X,\epsilon)$, where $g$ is unknown function. Moreover,
    we make no assumptions on the distribution of errors, existence of their
    moments etc. 
    
