@@ -58,7 +58,6 @@ at least until June 12. Each seminar starts at
 - **Speaker**: Jaroslaw Harezlak
 - **Title**: Brain imaging and wearable devices; statistical
   learning to the rescue
-- **Calendar invitation**: [Link to calendar invitation](https://lu-se.zoom.us/meeting/u5Etce6rrTIrHdGmDxIUKT33_HsILcrt6Tui/ics?icsToken=98tyKu-trj0tGdecsR6CR_MMAo_oKOnztlhcgqd6kTv9KhV4VlClCcpRG558AsyG)
 - **Abstract**: The amount of medical data collected has been growing 
    exponentially over the past few decades. This growth in data acquisition has 
    not been, unfortunately, paralleled by the same growth rate of statistical
@@ -79,6 +78,7 @@ at least until June 12. Each seminar starts at
    injury, neurodegenerative diseases and physical activity as well as 
    statistical areas including semiparametric regression, functional data 
    analysis, brain imaging and intensively-collected longitudinal data.
+- [Link to calendar invitation](https://lu-se.zoom.us/meeting/u5Etce6rrTIrHdGmDxIUKT33_HsILcrt6Tui/ics?icsToken=98tyKu-trj0tGdecsR6CR_MMAo_oKOnztlhcgqd6kTv9KhV4VlClCcpRG558AsyG)
    
 ### Friday, May 29, 16:30 CEST
 
@@ -93,6 +93,7 @@ at least until June 12. Each seminar starts at
    just treat their class labels as they were numbers and apply standard Lasso. 
    We present theoretical and numerical results describing variable selection 
    properties of the methods.
+- [Link to calendar invitation](https://lu-se.zoom.us/meeting/u5Etce6rrTIrHdGmDxIUKT33_HsILcrt6Tui/ics?icsToken=98tyKu-trj0tGdecsR6CR_MMAo_oKOnztlhcgqd6kTv9KhV4VlClCcpRG558AsyG)
 
 ## Previous talks
 
