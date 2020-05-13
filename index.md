@@ -87,13 +87,11 @@ at least until June 12. Each seminar starts at
 - **Abstract**: We investigate the variable selection problem in the single 
    index model $Y=g(\beta'X,\epsilon)$, where $g$ is unknown function. Moreover,
    we make no assumptions on the distribution of errors, existence of their
-   moments etc. 
-   
-   We propose a computationally fast variable selection procedure, which is 
-   based on standard Lasso with response variables replaced by their ranks. If 
-   response variables are binary, our approach is  even simpler: we just treat
-   their class labels as they were numbers and apply standard Lasso. We 
-   present theoretical and numerical results describing variable selection 
+   moments etc. We propose a computationally fast variable selection procedure,
+   which is based on standard Lasso with response variables replaced by their
+   ranks. If response variables are binary, our approach is  even simpler: we 
+   just treat their class labels as they were numbers and apply standard Lasso. 
+   We present theoretical and numerical results describing variable selection 
    properties of the methods.
 
 ## Previous talks
