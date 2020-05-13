@@ -113,7 +113,7 @@ This seminar series is organized by
 [The Department of Mathematics, Wrocław University](https://www.math.uni.wroc.pl) and 
 [The Department of Statistics, Lund University](https://stat.lu.se).
 
-# Other One World Seminars
+# Other Online Seminars
 
 - [One World Probability Seminar](https://www.wim.uni-mannheim.de/doering/one-world/)
 - [One World Optimization Seminar](https://owos.univie.ac.at/)
@@ -124,4 +124,6 @@ This seminar series is organized by
 - [One World Mathematical Game Theory Seminar](https://gametheorynetwork.com/one-world-game-theory-seminar/)
 - [One World Seminar: Mathematical Methods for Arbitrary Data Sources](http://www.nonlocal-methods.eu/oneworld/)
 - [One World Cognitive Psychologie Seminar](https://www.sowi.uni-mannheim.de/en/erdfelder/research/one-world-cps/)
+- [International Seminar on Selective Inference](https://www.selectiveinferenceseminar.com)
+- [Online Causal Inference Seminar](https://sites.google.com/view/ocis/home)
 
