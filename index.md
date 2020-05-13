@@ -32,7 +32,7 @@ at least until June 12. Each seminar starts at
 
 ## Upcoming talks
 
-### Frdiay, May 22
+### Friday, May 22
 
 **Jaroslaw Harezlak**: Brain imaging and wearable devices; statistical
 learning to the rescue
