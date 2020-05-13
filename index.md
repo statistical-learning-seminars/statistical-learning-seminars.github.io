@@ -16,7 +16,7 @@ discussions afterwards.
 Here are some ground rules for these seminars:
 
 - Please use your real name as a handle.
-- Please turn off your microphone when you are not speaking.
+- Please mute your microphone whenever you are not speaking.
 - If you wish to ask a question, use the **raise hand** button in the
   **participants** window.
 
@@ -32,11 +32,12 @@ at least until June 12. Each seminar starts at
 
 ## Upcoming talks
 
-### Friday, May 22
+### Friday, May 22, 16:30 CEST
 
 - **Speaker**: Jaroslaw Harezlak
 - **Title**: Brain imaging and wearable devices; statistical
   learning to the rescue
+- **Calendar invitation**: [Link to calendar invitation](https://lu-se.zoom.us/meeting/u5Etce6rrTIrHdGmDxIUKT33_HsILcrt6Tui/ics?icsToken=98tyKu-trj0tGdecsR6CR_MMAo_oKOnztlhcgqd6kTv9KhV4VlClCcpRG558AsyG)
 - **Abstract**: The amount of medical data collected has been growing exponentially 
    over the past few decades. This growth in data acquisition has not been, 
    unfortunately, paralleled by the same growth rate of statistical learning 
@@ -72,9 +73,6 @@ at least until June 12. Each seminar starts at
    neurodegenerative diseases and physical activity as well as statistical areas 
    including semiparametric regression, functional data analysis, brain imaging 
    and intensively-collected longitudinal data.
-- [calendar invitation**](https://lu-se.zoom.us/meeting/u5Etce6rrTIrHdGmDxIUKT33_HsILcrt6Tui/ics?icsToken=98tyKu-trj0tGdecsR6CR_MMAo_oKOnztlhcgqd6kTv9KhV4VlClCcpRG558AsyG)
-
-
 
 ## Previous talks
 
