@@ -51,35 +51,10 @@ The seminar is held on a weekly basis on **fridays** and will run
 at least until June 12. Each seminar starts at
 [16:30 CEST](https://www.thetimezoneconverter.com/?t=16%3A30%20pm&tz=Warsaw&).
 
-## Upcoming talks
+[Link to calendar event](https://lu-se.zoom.us/meeting/u5Etce6rrTIrHdGmDxIUKT33_HsILcrt6Tui/ics?icsToken=98tyKu-trj0tGdecsR6CR_MMAo_oKOnztlhcgqd6kTv9KhV4VlClCcpRG558AsyG)
 
-### Friday, May 22, 16:30 CEST
+## Upcoming talk
 
-- **Speaker**: Jaroslaw Harezlak
-- **Title**: Brain imaging and wearable devices; statistical
-  learning to the rescue
-- **Abstract**: The amount of medical data collected has been growing 
-   exponentially over the past few decades. This growth in data acquisition has 
-   not been, unfortunately, paralleled by the same growth rate of statistical
-   learning methods’ development. In my talk, I will give a brief overview of
-   the analytical methods developed by my group and their applications in the
-   medical and public health areas. Specifically, (1) regularization methods
-   applied to the structural brain imaging data and (2) signal processing
-   techniques utilized in extracting physical activity information from the raw
-   accelerometry data will be emphasized. 
-- **Biography**: Dr. Harezlak is a Professor and an Interim Co-chair of the 
-   Department of Epidemiology and Biostatistics at the Indiana University 
-   School of Public Health-Bloomington, U.S.A. After graduating from Harvard 
-   University and 2 years of post-doctoral training at the Harvard School of 
-   Public Health, he joined Indiana University where he has been since. He has 
-   held a visiting appointment at Johns Hopkins University, Baltimore, U.S.A. 
-   and is an adjunct professor at the University of Wroclaw, Poland. His 
-   interests span a number of medical areas including mild traumatic brain 
-   injury, neurodegenerative diseases and physical activity as well as 
-   statistical areas including semiparametric regression, functional data 
-   analysis, brain imaging and intensively-collected longitudinal data.
-- [Link to calendar invitation](https://lu-se.zoom.us/meeting/u5Etce6rrTIrHdGmDxIUKT33_HsILcrt6Tui/ics?icsToken=98tyKu-trj0tGdecsR6CR_MMAo_oKOnztlhcgqd6kTv9KhV4VlClCcpRG558AsyG)
-   
 ### Friday, May 29, 16:30 CEST
 
 - **Speaker**: Wojciech Rejchel
@@ -93,15 +68,39 @@ at least until June 12. Each seminar starts at
    just treat their class labels as they were numbers and apply standard Lasso. 
    We present theoretical and numerical results describing variable selection 
    properties of the methods.
-- [Link to calendar invitation](https://lu-se.zoom.us/meeting/u5Etce6rrTIrHdGmDxIUKT33_HsILcrt6Tui/ics?icsToken=98tyKu-trj0tGdecsR6CR_MMAo_oKOnztlhcgqd6kTv9KhV4VlClCcpRG558AsyG)
+
+### Friday, June 12, 16:30 CEST
+
+- **Speaker**: Aaron Molstad
+- **Title**: Insights and algorithms for the multivariate square-root lasso
+- **Abstract**: We study the multivariate square-root lasso, a method for 
+  fitting the multivariate response (i.e., multi-task) linear regression 
+  model with dependent errors. This estimator minimizes the nuclear norm of the 
+  residual matrix plus a convex penalty. Unlike some existing methods for 
+  multivariate response linear regression, which require explicit estimates of
+  the error co- variance matrix or its inverse, the multivariate square-root 
+  lasso criterion implicitly adapts to dependent errors and is convex. To
+  justify the use of this estimator, we establish an error bound which 
+  illustrates that like the univariate square-root lasso, the multivariate
+  square-root lasso is pivotal with respect to the unknown error covariance
+  matrix. Based on our theory, we propose a simple tuning approach which 
+  requires fitting the model for only a single value of the tuning parameter,
+  e.g., does not require cross-validation. We propose two algorithms to compute
+  the estimator: a prox-linear alternating direction method of multipliers 
+  algorithm, and an accelerated first order algorithm which can be applied in
+  certain cases. In both simulation studies and a genomic data application, we 
+  show that the multivariate square-root lasso can outperform more 
+  computationally intensive methods which estimate both the regression 
+  coefficient matrix and error precision matrix.Aaron Molstad
 
 ## Previous talks
 
-| Date  | Speaker          | Title                               | Resources                                                                                                                       |
-| :---- | :--------------- | :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
-| May 8 | Patrick Tardivel | Screening rules for the lasso       | [presentation](https://vimeo.com/416630058)                                                                                     |
-| May 8 | Johan Larsson    | The strong screening rule for SLOPE | [slides](slides\200508-johanlarsson.pdf), [presentation](https://vimeo.com/416633997), [paper](http://arxiv.org/abs/2005.03730) |
-
+| Date   | Speaker           | Title                                                                        | Resources                                                                                                                       |
+| :----- | :---------------- | :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
+| May 22 | Jaroslaw Harezlak | Brain Connectivity-Informed Adaptive Regularization for Generalized Outcomes | [presentation](https://vimeo.com/421641945)                                                                                     |
+| May 22 | Jaroslaw Harezlak | Wearable Devices – Statistical Learning to the Rescue                        | [presentation](https://vimeo.com/421640615)                                                                                     |
+| May 8  | Johan Larsson     | The strong screening rule for SLOPE                                          | [slides](slides\200508-johanlarsson.pdf), [presentation](https://vimeo.com/416633997), [paper](http://arxiv.org/abs/2005.03730) |
+| May 8  | Patrick Tardivel  | Screening rules for the lasso                                                | [presentation](https://vimeo.com/416630058)                                                                                     |
 # Recordings
 
 Recordings of the talks on this seminar are hosted at
