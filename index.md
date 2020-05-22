@@ -101,6 +101,7 @@ at least until June 12. Each seminar starts at
 | May 22 | Jaroslaw Harezlak | Wearable Devices – Statistical Learning to the Rescue                        | [presentation](https://vimeo.com/421640615)                                                                                     |
 | May 8  | Johan Larsson     | The strong screening rule for SLOPE                                          | [slides](slides\200508-johanlarsson.pdf), [presentation](https://vimeo.com/416633997), [paper](http://arxiv.org/abs/2005.03730) |
 | May 8  | Patrick Tardivel  | Screening rules for the lasso                                                | [presentation](https://vimeo.com/416630058)                                                                                     |
+
 # Recordings
 
 Recordings of the talks on this seminar are hosted at
