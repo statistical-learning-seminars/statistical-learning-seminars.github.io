@@ -97,8 +97,8 @@ at least until June 12. Each seminar starts at
 
 | Date   | Speaker           | Title                                                                        | Resources                                                                                                                       |
 | :----- | :---------------- | :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
-| May 22 | Jaroslaw Harezlak | Brain Connectivity-Informed Adaptive Regularization for Generalized Outcomes | [presentation](https://vimeo.com/421641945)                                                                                     |
-| May 22 | Jaroslaw Harezlak | Wearable Devices - Statistical Learning to the Rescue                        | [presentation](https://vimeo.com/421640615)                                                                                     |
+| May 22 | Jaroslaw Harezlak | Brain Connectivity-Informed Adaptive Regularization for Generalized Outcomes | [presentation](https://vimeo.com/421641945), [slides](slides\200522-harezlak-brainimaging.pdf)                                  |
+| May 22 | Jaroslaw Harezlak | Wearable Devices - Statistical Learning to the Rescue                        | [presentation](https://vimeo.com/421640615), [slides](slides\200522-harezlak-accelerometry.pdf)                                 |
 | May 8  | Johan Larsson     | The strong screening rule for SLOPE                                          | [slides](slides\200508-johanlarsson.pdf), [presentation](https://vimeo.com/416633997), [paper](http://arxiv.org/abs/2005.03730) |
 | May 8  | Patrick Tardivel  | Screening rules for the lasso                                                | [presentation](https://vimeo.com/416630058)                                                                                     |
 
