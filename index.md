@@ -55,19 +55,11 @@ at least until June 12. Each seminar starts at
 
 ## Upcoming talk
 
-### Friday, May 29, 16:30 CEST
+### Friday, June 5, 16:30 CEST
 
-- **Speaker**: Wojciech Rejchel
-- **Title**: Fast and robust procedures in high-dimensional variable selection
-- **Abstract**: We investigate the variable selection problem in the single 
-   index model $Y=g(\beta'X,\epsilon)$, where $g$ is unknown function. Moreover,
-   we make no assumptions on the distribution of errors, existence of their
-   moments etc. We propose a computationally fast variable selection procedure,
-   which is based on standard Lasso with response variables replaced by their
-   ranks. If response variables are binary, our approach is  even simpler: we 
-   just treat their class labels as they were numbers and apply standard Lasso. 
-   We present theoretical and numerical results describing variable selection 
-   properties of the methods.
+- **Speaker**: Damian Brzyski
+- **Title**: TBA
+- **Abstract**: TBA
 
 ### Friday, June 12, 16:30 CEST
 
@@ -97,9 +89,10 @@ at least until June 12. Each seminar starts at
 
 | Date   | Speaker           | Title                                                                        | Resources                                                                                                                       |
 | :----- | :---------------- | :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
-| May 22 | Jaroslaw Harezlak | Brain Connectivity-Informed Adaptive Regularization for Generalized Outcomes | [presentation](https://vimeo.com/421641945), [slides](slides\200522-harezlak-brainimaging.pdf)                                  |
-| May 22 | Jaroslaw Harezlak | Wearable Devices - Statistical Learning to the Rescue                        | [presentation](https://vimeo.com/421640615), [slides](slides\200522-harezlak-accelerometry.pdf)                                 |
-| May 8  | Johan Larsson     | The strong screening rule for SLOPE                                          | [slides](slides\200508-johanlarsson.pdf), [presentation](https://vimeo.com/416633997), [paper](http://arxiv.org/abs/2005.03730) |
+| May 29 | Wojchiech Rejchel | Fast and robust procedures in high-dimensional variable selection            | [presentaton](https://vimeo.com/424316618), [slides](slides/200529-rejchel.pdf), [paper](https://arxiv.org/abs/1905.05876)      |
+| May 22 | Jaroslaw Harezlak | Brain Connectivity-Informed Adaptive Regularization for Generalized Outcomes | [presentation](https://vimeo.com/421641945), [slides](slides/200522-harezlak-brainimaging.pdf)                                  |
+| May 22 | Jaroslaw Harezlak | Wearable Devices - Statistical Learning to the Rescue                        | [presentation](https://vimeo.com/421640615), [slides](slides/200522-harezlak-accelerometry.pdf)                                 |
+| May 8  | Johan Larsson     | The strong screening rule for SLOPE                                          | [slides](slides/200508-johanlarsson.pdf), [presentation](https://vimeo.com/416633997), [paper](http://arxiv.org/abs/2005.03730) |
 | May 8  | Patrick Tardivel  | Screening rules for the lasso                                                | [presentation](https://vimeo.com/416630058)                                                                                     |
 
 # Recordings
