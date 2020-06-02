@@ -58,8 +58,22 @@ at least until June 12. Each seminar starts at
 ### Friday, June 5, 16:30 CEST
 
 - **Speaker**: Damian Brzyski
-- **Title**: TBA
-- **Abstract**: TBA
+- **Title**: The adaptive incorporation of multiple sources of information in 
+  Brain Imaging via penalized optimization
+- **Abstract**: The use of multiple sources of information in regression 
+  modeling has recently received a lot of attention in the statistical and brain
+  imaging literature. This talk introduces a novel, fully-automatic statistical
+  procedure that addresses the problem of linear regression coefficients 
+  estimation in the situation when the additional information about 
+  connectivities between variables is given. Our method, "Adaptive Information 
+  Merging Estimator for Regression" (AIMER) enables for the incorporation of 
+  multiple sources of such information as well as for the division of one 
+  source into pieces and determining their impact on the estimates. We 
+  performed extensive simulations to visualize the desired adjusting 
+  properties of our method and show its advantages over the existing 
+  approaches. We also applied AIMER to analyze structural brain imaging data 
+  and to reveal the association between cortical thickness and HIV-related 
+  outcomes.
 
 ### Friday, June 12, 16:30 CEST
 
