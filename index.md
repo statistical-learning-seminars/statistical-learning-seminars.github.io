@@ -80,11 +80,11 @@ at least until June 12. Each seminar starts at
 - **Speaker**: Aaron Molstad
 - **Title**: Insights and algorithms for the multivariate square-root lasso
 - **Abstract**: We study the multivariate square-root lasso, a method for 
-  fitting the multivariate response (i.e., multi-task) linear regression 
+  fitting the multivariate response (i.e. multi-task) linear regression 
   model with dependent errors. This estimator minimizes the nuclear norm of the 
   residual matrix plus a convex penalty. Unlike some existing methods for 
   multivariate response linear regression, which require explicit estimates of
-  the error co- variance matrix or its inverse, the multivariate square-root 
+  the error covariance matrix or its inverse, the multivariate square-root 
   lasso criterion implicitly adapts to dependent errors and is convex. To
   justify the use of this estimator, we establish an error bound which 
   illustrates that like the univariate square-root lasso, the multivariate
@@ -97,7 +97,7 @@ at least until June 12. Each seminar starts at
   certain cases. In both simulation studies and a genomic data application, we 
   show that the multivariate square-root lasso can outperform more 
   computationally intensive methods which estimate both the regression 
-  coefficient matrix and error precision matrix.Aaron Molstad
+  coefficient matrix and error precision matrix.
 
 ## Previous talks
 
