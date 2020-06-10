@@ -55,26 +55,6 @@ at least until June 12. Each seminar starts at
 
 ## Upcoming talk
 
-### Friday, June 5, 16:30 CEST
-
-- **Speaker**: Damian Brzyski
-- **Title**: The adaptive incorporation of multiple sources of information in 
-  Brain Imaging via penalized optimization
-- **Abstract**: The use of multiple sources of information in regression 
-  modeling has recently received a lot of attention in the statistical and brain
-  imaging literature. This talk introduces a novel, fully-automatic statistical
-  procedure that addresses the problem of linear regression coefficients 
-  estimation in the situation when the additional information about 
-  connectivities between variables is given. Our method, "Adaptive Information 
-  Merging Estimator for Regression" (AIMER) enables for the incorporation of 
-  multiple sources of such information as well as for the division of one 
-  source into pieces and determining their impact on the estimates. We 
-  performed extensive simulations to visualize the desired adjusting 
-  properties of our method and show its advantages over the existing 
-  approaches. We also applied AIMER to analyze structural brain imaging data 
-  and to reveal the association between cortical thickness and HIV-related 
-  outcomes.
-
 ### Friday, June 12, 16:30 CEST
 
 - **Speaker**: Aaron Molstad
@@ -101,13 +81,15 @@ at least until June 12. Each seminar starts at
 
 ## Previous talks
 
-| Date   | Speaker           | Title                                                                        | Resources                                                                                                                       |
-| :----- | :---------------- | :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
-| May 29 | Wojchiech Rejchel | Fast and robust procedures in high-dimensional variable selection            | [presentation](https://vimeo.com/424316618), [slides](slides/200529-rejchel.pdf), [paper](https://arxiv.org/abs/1905.05876)      |
-| May 22 | Jaroslaw Harezlak | Brain Connectivity-Informed Adaptive Regularization for Generalized Outcomes | [presentation](https://vimeo.com/421641945), [slides](slides/200522-harezlak-brainimaging.pdf)                                  |
-| May 22 | Jaroslaw Harezlak | Wearable Devices - Statistical Learning to the Rescue                        | [presentation](https://vimeo.com/421640615), [slides](slides/200522-harezlak-accelerometry.pdf)                                 |
-| May 8  | Johan Larsson     | The strong screening rule for SLOPE                                          | [presentation](https://vimeo.com/416633997), [slides](slides/200508-johanlarsson.pdf), [paper](http://arxiv.org/abs/2005.03730) |
-| May 8  | Patrick Tardivel  | Screening rules for the lasso                                                | [presentation](https://vimeo.com/416630058)                                                                                     |
+
+| Date   | Speaker           | Title                                                                                                     | Resources                                                                                                                       |
+| :----- | :---------------- | :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
+| July 5 | Damian Brzyski    | The adaptive incorporation of multiple sources of information in Brain Imaging via penalized optimization | [presentation](https://vimeo.com/427870917)                                                                                     |
+| May 29 | Wojchiech Rejchel | Fast and robust procedures in high-dimensional variable selection                                         | [presentation](https://vimeo.com/424316618), [slides](slides/200529-rejchel.pdf), [paper](https://arxiv.org/abs/1905.05876)     |
+| May 22 | Jaroslaw Harezlak | Brain Connectivity-Informed Adaptive Regularization for Generalized Outcomes                              | [presentation](https://vimeo.com/421641945), [slides](slides/200522-harezlak-brainimaging.pdf)                                  |
+| May 22 | Jaroslaw Harezlak | Wearable Devices - Statistical Learning to the Rescue                                                     | [presentation](https://vimeo.com/421640615), [slides](slides/200522-harezlak-accelerometry.pdf)                                 |
+| May 8  | Johan Larsson     | The strong screening rule for SLOPE                                                                       | [presentation](https://vimeo.com/416633997), [slides](slides/200508-johanlarsson.pdf), [paper](http://arxiv.org/abs/2005.03730) |
+| May 8  | Patrick Tardivel  | Screening rules for the lasso                                                                             | [presentation](https://vimeo.com/416630058)                                                                                     |
 
 # Recordings
 
