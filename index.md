@@ -53,43 +53,33 @@ at least until June 12. Each seminar starts at
 
 [Link to calendar event](https://lu-se.zoom.us/meeting/u5Etce6rrTIrHdGmDxIUKT33_HsILcrt6Tui/ics?icsToken=98tyKu-trj0tGdecsR6CR_MMAo_oKOnztlhcgqd6kTv9KhV4VlClCcpRG558AsyG)
 
-## Upcoming talk
+## Upcoming talks
 
-### Friday, June 12, 16:30 CEST
+### Friday, June 26, 16:30 CEST
 
-- **Speaker**: Aaron Molstad
-- **Title**: Insights and algorithms for the multivariate square-root lasso
-- **Abstract**: We study the multivariate square-root lasso, a method for 
-  fitting the multivariate response (i.e. multi-task) linear regression 
-  model with dependent errors. This estimator minimizes the nuclear norm of the 
-  residual matrix plus a convex penalty. Unlike some existing methods for 
-  multivariate response linear regression, which require explicit estimates of
-  the error covariance matrix or its inverse, the multivariate square-root 
-  lasso criterion implicitly adapts to dependent errors and is convex. To
-  justify the use of this estimator, we establish an error bound which 
-  illustrates that like the univariate square-root lasso, the multivariate
-  square-root lasso is pivotal with respect to the unknown error covariance
-  matrix. Based on our theory, we propose a simple tuning approach which 
-  requires fitting the model for only a single value of the tuning parameter,
-  e.g., does not require cross-validation. We propose two algorithms to compute
-  the estimator: a prox-linear alternating direction method of multipliers 
-  algorithm, and an accelerated first order algorithm which can be applied in
-  certain cases. In both simulation studies and a genomic data application, we 
-  show that the multivariate square-root lasso can outperform more 
-  computationally intensive methods which estimate both the regression 
-  coefficient matrix and error precision matrix.
+- **Speaker**: TBA
+- **Title**: TBA
+- **Abstract**: TBA
+
+### Friday, July 3, 16:30 CEST
+
+- **Speaker**: Aude Sportisse
+- **Title**: Robust Lasso-Zero for sparse corruption and model section with missing covariates
+- **Abstract**: We propose Robust Lasso-Zero, an extension of the Lasso-Zero methodology (see Model selection with lasso-zero: adding straw to the haystack to better find needles, Descloux and Sardy, 2018), initially introduced for sparse linear models, to the sparse corruptions problem. We give theoretical guarantees on the sign recovery of the parameters for a slightly simplified version of the estimator, called Thresholded Justice Pursuit. The use of Robust Lasso-Zero is showcased for variable selection with missing values in the covariates. In addition to not requiring the specification of a model for the covariates, nor estimating their covariance matrix or the noise variance, the method has the great advantage of handling missing not-at random values without specifying a parametric model. Numerical experiments and a medical application underline the relevance of Robust Lasso-Zero in such a context with few available competitors. The method is easy to use and implemented in the R library lass0.
 
 ## Previous talks
 
 
-| Date   | Speaker           | Title                                                                                                     | Resources                                                                                                                       |
-| :----- | :---------------- | :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
-| July 5 | Damian Brzyski    | The adaptive incorporation of multiple sources of information in Brain Imaging via penalized optimization | [presentation](https://vimeo.com/427870917)                                                                                     |
-| May 29 | Wojchiech Rejchel | Fast and robust procedures in high-dimensional variable selection                                         | [presentation](https://vimeo.com/424316618), [slides](slides/200529-rejchel.pdf), [paper](https://arxiv.org/abs/1905.05876)     |
-| May 22 | Jaroslaw Harezlak | Brain Connectivity-Informed Adaptive Regularization for Generalized Outcomes                              | [presentation](https://vimeo.com/421641945), [slides](slides/200522-harezlak-brainimaging.pdf)                                  |
-| May 22 | Jaroslaw Harezlak | Wearable Devices - Statistical Learning to the Rescue                                                     | [presentation](https://vimeo.com/421640615), [slides](slides/200522-harezlak-accelerometry.pdf)                                 |
-| May 8  | Johan Larsson     | The strong screening rule for SLOPE                                                                       | [presentation](https://vimeo.com/416633997), [slides](slides/200508-johanlarsson.pdf), [paper](http://arxiv.org/abs/2005.03730) |
-| May 8  | Patrick Tardivel  | Screening rules for the lasso                                                                             | [presentation](https://vimeo.com/416630058)                                                                                     |
+| Date    | Speaker           | Title                                                                                                     | Resources                                                                                                                       |
+| :------ | :---------------- | :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
+| June 12 | Aaron Molstad     | Insights and algorithms for the multivariate square-root lasso                                            | [slides](slides/200612-molstad.pdf), [paper](https://arxiv.org/pdf/1909.05041)                                                  |
+| June 5  | Damian Brzyski    | The adaptive incorporation of multiple sources of information in Brain Imaging via penalized optimization | [presentation](https://vimeo.com/427870917)                                                                                     |
+| May 29  | Wojchiech Rejchel | Fast and robust procedures in high-dimensional variable selection                                         | [presentation](https://vimeo.com/424316618), [slides](slides/200529-rejchel.pdf), [paper](https://arxiv.org/abs/1905.05876)     |
+| May 22  | Jaroslaw Harezlak | Brain Connectivity-Informed Adaptive Regularization for Generalized Outcomes                              | [presentation](https://vimeo.com/421641945), [slides](slides/200522-harezlak-brainimaging.pdf)                                  |
+| May 22  | Jaroslaw Harezlak | Wearable Devices - Statistical Learning to the Rescue                                                     | [presentation](https://vimeo.com/421640615), [slides](slides/200522-harezlak-accelerometry.pdf)                                 |
+| May 8   | Johan Larsson     | The strong screening rule for SLOPE                                                                       | [presentation](https://vimeo.com/416633997), [slides](slides/200508-johanlarsson.pdf), [paper](http://arxiv.org/abs/2005.03730) |
+| May 8   | Patrick Tardivel  | Screening rules for the lasso                                                                             | [presentation](https://vimeo.com/416630058)                                                                                     |                                                                            |
+
 
 # Recordings
 
