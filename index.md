@@ -69,16 +69,15 @@ at least until June 12. Each seminar starts at
 
 ## Previous talks
 
-
-| Date    | Speaker           | Title                                                                                                     | Resources                                                                                                                       |
-| :------ | :---------------- | :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
-| June 12 | Aaron Molstad     | Insights and algorithms for the multivariate square-root lasso                                            | [slides](slides/200612-molstad.pdf), [paper](https://arxiv.org/pdf/1909.05041)                                                  |
-| June 5  | Damian Brzyski    | The adaptive incorporation of multiple sources of information in Brain Imaging via penalized optimization | [presentation](https://vimeo.com/427870917)                                                                                     |
-| May 29  | Wojchiech Rejchel | Fast and robust procedures in high-dimensional variable selection                                         | [presentation](https://vimeo.com/424316618), [slides](slides/200529-rejchel.pdf), [paper](https://arxiv.org/abs/1905.05876)     |
-| May 22  | Jaroslaw Harezlak | Brain Connectivity-Informed Adaptive Regularization for Generalized Outcomes                              | [presentation](https://vimeo.com/421641945), [slides](slides/200522-harezlak-brainimaging.pdf)                                  |
-| May 22  | Jaroslaw Harezlak | Wearable Devices - Statistical Learning to the Rescue                                                     | [presentation](https://vimeo.com/421640615), [slides](slides/200522-harezlak-accelerometry.pdf)                                 |
-| May 8   | Johan Larsson     | The strong screening rule for SLOPE                                                                       | [presentation](https://vimeo.com/416633997), [slides](slides/200508-johanlarsson.pdf), [paper](http://arxiv.org/abs/2005.03730) |
-| May 8   | Patrick Tardivel  | Screening rules for the lasso                                                                             | [presentation](https://vimeo.com/416630058)                                                                                     |                                                                            |
+| Date    | Speaker           | Title                                                                                                     | Resources                                                                                                                       |     |
+| :------ | :---------------- | :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ | :-- |
+| June 12 | Aaron Molstad     | Insights and algorithms for the multivariate square-root lasso                                            | [slides](slides/200612-molstad.pdf), [paper](https://arxiv.org/pdf/1909.05041)                                                  |     |
+| June 5  | Damian Brzyski    | The adaptive incorporation of multiple sources of information in Brain Imaging via penalized optimization | [presentation](https://vimeo.com/427870917), [slides](slides/200605-brzyski.pdf)                                                |     |
+| May 29  | Wojchiech Rejchel | Fast and robust procedures in high-dimensional variable selection                                         | [presentation](https://vimeo.com/424316618), [slides](slides/200529-rejchel.pdf), [paper](https://arxiv.org/abs/1905.05876)     |     |
+| May 22  | Jaroslaw Harezlak | Brain Connectivity-Informed Adaptive Regularization for Generalized Outcomes                              | [presentation](https://vimeo.com/421641945), [slides](slides/200522-harezlak-brainimaging.pdf)                                  |     |
+| May 22  | Jaroslaw Harezlak | Wearable Devices - Statistical Learning to the Rescue                                                     | [presentation](https://vimeo.com/421640615), [slides](slides/200522-harezlak-accelerometry.pdf)                                 |     |
+| May 8   | Johan Larsson     | The strong screening rule for SLOPE                                                                       | [presentation](https://vimeo.com/416633997), [slides](slides/200508-johanlarsson.pdf), [paper](http://arxiv.org/abs/2005.03730) |     |
+| May 8   | Patrick Tardivel  | Screening rules for the lasso                                                                             | [presentation](https://vimeo.com/416630058)                                                                                     |     |
 
 
 # Recordings
