@@ -57,9 +57,19 @@ at least until June 12. Each seminar starts at
 
 ### Friday, June 26, 16:30 CEST
 
-- **Speaker**: TBA
-- **Title**: TBA
-- **Abstract**: TBA
+- **Speaker**: Lukasz Smaga
+- **Title**: Permutation tests for coefficients of variation in general one-way 
+  ANOVA models
+- **Abstract**: Coefficients of variation are unit-free measures that have many 
+  applications. For example, they can be used to compare the variability of 
+  different samples. To this end, we study inference methods for them as well as
+  their reciprocal given by standardized means in general heterogeneous one-way
+  ANOVA designs. As no specific model assumptions are made, a permutation method
+  is proposed to guarantee good finite sample performance. Building on recent
+  limit theorems for randomization techniques, we prove that the permutation 
+  procedure is asymptotically correct in general and finitely exact when data 
+  is exchangeable. These results are fostered in extensive simulation studies 
+  and two illustrative data analyses.
 
 ### Friday, July 3, 16:30 CEST
 
