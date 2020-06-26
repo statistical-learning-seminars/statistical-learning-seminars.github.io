@@ -77,6 +77,13 @@ at least until June 12. Each seminar starts at
 - **Title**: Robust Lasso-Zero for sparse corruption and model section with missing covariates
 - **Abstract**: We propose Robust Lasso-Zero, an extension of the Lasso-Zero methodology (see Model selection with lasso-zero: adding straw to the haystack to better find needles, Descloux and Sardy, 2018), initially introduced for sparse linear models, to the sparse corruptions problem. We give theoretical guarantees on the sign recovery of the parameters for a slightly simplified version of the estimator, called Thresholded Justice Pursuit. The use of Robust Lasso-Zero is showcased for variable selection with missing values in the covariates. In addition to not requiring the specification of a model for the covariates, nor estimating their covariance matrix or the noise variance, the method has the great advantage of handling missing not-at random values without specifying a parametric model. Numerical experiments and a medical application underline the relevance of Robust Lasso-Zero in such a context with few available competitors. The method is easy to use and implemented in the R library lass0.
 
+### Friday, July 10, 16:30 CEST
+
+- **Speaker**: Ahmad Mousavi
+- **Title**: Solution Uniqueness of Convex Piecewise Affine Functions Based Optimization with Applications to Constrained $\ell_1$ Minimization
+- **Abstract**: We study the solution uniqueness of an individual feasible vector of a class of convex optimization problems involving convex piecewise affine functions and subject to general polyhedral constraints. This class of problems incorporates many important polyhedral constrained $\ell_1$ recovery problems arising from sparse optimization, such as basis pursuit, LASSO, and basis pursuit denoising.
+By leveraging the max-formulation of convex piecewise affine functions and convex analysis tools, we develop dual-variables-based necessary and sufficient uniqueness conditions via simple and yet unifying approaches; these conditions are applied to $\ell_1$ minimization problems under possible polyhedral constraints. An effective linear program based scheme is proposed to verify solution uniqueness conditions. The results not only recover the known solution uniqueness conditions in the literature by removing restrictive assumptions but also yield new uniqueness conditions for much broader constrained $\ell_1$-minimization problems.
+
 ## Previous talks
 
 | Date    | Speaker           | Title                                                                                                     | Resources                                                                                                                       |     |
