@@ -80,7 +80,7 @@ By leveraging the max-formulation of convex piecewise affine functions and conve
 
 | Date    | Speaker           | Title                                                                                                     | Resources                                                                                                                       |     |
 | :------ | :---------------- | :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ | :-- |
-| June 26 | Lukasz Smaga      | Permutation tests for coefficients of variation in general one-way ANOVA models                           | [presentation](https://vimeo.com/433588392)                                                                                     |     |
+| June 26 | Lukasz Smaga      | Permutation tests for coefficients of variation in general one-way ANOVA models                           | [presentation](https://vimeo.com/433588392), [slides](slides/200626-smaga.pdf)                                                  |     |
 | June 12 | Aaron Molstad     | Insights and algorithms for the multivariate square-root lasso                                            | [slides](slides/200612-molstad.pdf), [paper](https://arxiv.org/pdf/1909.05041)                                                  |     |
 | June 5  | Damian Brzyski    | The adaptive incorporation of multiple sources of information in Brain Imaging via penalized optimization | [presentation](https://vimeo.com/427870917), [slides](slides/200605-brzyski.pdf)                                                |     |
 | May 29  | Wojchiech Rejchel | Fast and robust procedures in high-dimensional variable selection                                         | [presentation](https://vimeo.com/424316618), [slides](slides/200529-rejchel.pdf), [paper](https://arxiv.org/abs/1905.05876)     |     |
@@ -88,7 +88,6 @@ By leveraging the max-formulation of convex piecewise affine functions and conve
 | May 22  | Jaroslaw Harezlak | Wearable Devices - Statistical Learning to the Rescue                                                     | [presentation](https://vimeo.com/421640615), [slides](slides/200522-harezlak-accelerometry.pdf)                                 |     |
 | May 8   | Johan Larsson     | The strong screening rule for SLOPE                                                                       | [presentation](https://vimeo.com/416633997), [slides](slides/200508-johanlarsson.pdf), [paper](http://arxiv.org/abs/2005.03730) |     |
 | May 8   | Patrick Tardivel  | Screening rules for the lasso                                                                             | [presentation](https://vimeo.com/416630058)                                                                                     |     |
-
 
 # Recordings
 
