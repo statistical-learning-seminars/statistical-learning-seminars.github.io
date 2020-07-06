@@ -55,16 +55,6 @@ at least until June 12. Each seminar starts at
 
 ## Upcoming talks
 
-### Friday, July 3, 16:30 CEST
-
-- **Speaker**: Aude Sportisse
-- **Title**: Robust Lasso-Zero for sparse corruption and model section with missing covariates
-- **Abstract**: We propose Robust Lasso-Zero, an extension of the Lasso-Zero methodology (see Model selection with lasso-zero: adding straw to the haystack to better find needles, Descloux and Sardy, 2018), initially introduced for sparse linear models, to the sparse corruptions problem. We give theoretical guarantees on the sign recovery of the parameters for a slightly simplified version of the estimator, called Thresholded Justice Pursuit. The use of Robust Lasso-Zero is showcased for variable selection with missing values in the covariates. In addition to not requiring the specification of a model for the covariates, nor estimating their covariance matrix or the noise variance, the method has the great advantage of handling missing not-at random values without specifying a parametric model. Numerical experiments and a medical application underline the relevance of Robust Lasso-Zero in such a context with few available competitors. The method is easy to use and implemented in the R library lass0.
-
-- **Speaker**: Patrick Tardivel
-- **Title**: On the sign recovery by LASSO, thresholded LASSO and thresholded Basis Pursuit Denoising
-- **Abstract**: Basis Pursuit (BP), Basis Pursuit DeNoising (BPDN) and LASSO are popular procedures for identifying important predictors in the high-dimensional linear regression model $Y=b+e$. When $e=0$, BP can recover the sign of b when this vector is identifiable with respect to the L1 norm, while LASSO requires a much stronger irrepresentability condition. It is known that model selection properties of LASSO can be improved by hard-thresholding its estimates. In this article we support these findings by proving that thresholded LASSO, thresholded BPDN and thresholded BP can recover the sign of $b$ if and only if $b$ is identifiable with respect to the L1 norm. In particular when $X$ has iid Gaussian entries and the numbers of predictors grow linearly with the sample size then these thresholded estimators can recover the sign of $b$ if its limiting signal sparsity is below the Donoho-Tanner transition curve. This is in contrast with vanilla LASSO which, asymptotically, can recover the sign of b only if the signal sparsity tends to 0. Numerical experiments illustrate that contrary to irrepresentability condition, the identifiability condition seems to be not affected by the structure of correlations in the $X$ matrix. 
-
 ### Friday, July 10, 16:30 CEST
 
 - **Speaker**: Ahmad Mousavi
@@ -80,6 +70,8 @@ By leveraging the max-formulation of convex piecewise affine functions and conve
 
 | Date    | Speaker           | Title                                                                                                     | Resources                                                                                                                       |     |
 | :------ | :---------------- | :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ | :-- |
+| July 3  | Patrick Tardivel  | On the sign recovery by LASSO, thresholded LASSO and thresholded Basis Pursuit Denoising                  | [presentation](https://vimeo.com/435738721)                                                                                     |     |
+| July 3  | Aude Sportisse    | Robust Lasso-Zero for sparse corruption and model section with missing covariates                         | [presentation](https://vimeo.com/435738647)                                                                                     |     |
 | June 26 | Lukasz Smaga      | Permutation tests for coefficients of variation in general one-way ANOVA models                           | [presentation](https://vimeo.com/433588392), [slides](slides/200626-smaga.pdf)                                                  |     |
 | June 12 | Aaron Molstad     | Insights and algorithms for the multivariate square-root lasso                                            | [slides](slides/200612-molstad.pdf), [paper](https://arxiv.org/pdf/1909.05041)                                                  |     |
 | June 5  | Damian Brzyski    | The adaptive incorporation of multiple sources of information in Brain Imaging via penalized optimization | [presentation](https://vimeo.com/427870917), [slides](slides/200605-brzyski.pdf)                                                |     |
