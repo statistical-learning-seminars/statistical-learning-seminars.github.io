@@ -63,14 +63,18 @@ at least until June 12. Each seminar starts at
 By leveraging the max-formulation of convex piecewise affine functions and convex analysis tools, we develop dual-variables-based necessary and sufficient uniqueness conditions via simple and yet unifying approaches; these conditions are applied to $\ell_1$ minimization problems under possible polyhedral constraints. An effective linear program based scheme is proposed to verify solution uniqueness conditions. The results not only recover the known solution uniqueness conditions in the literature by removing restrictive assumptions but also yield new uniqueness conditions for much broader constrained $\ell_1$-minimization problems.
 
 - **Speaker**: Patrick Tardivel
-- **Title**: TBA
-- **Abstract**: TBA
+- **Title**: The Geometry of Uniqueness and Model Selection of Penalized Estimators including SLOPE, LASSO and Basis Pursuit
+- **Abstract**: We provide a necessary and sufficient condition for the uniqueness of penalized least-squares estimators whose penalty term is a norm with a polytope unit ball. The condition is given by a geometric criterion involving how the row span of the design matrix intersects the faces of the dual norm unit ball. The criterion also provides information about the model selection properties of the corresponding estimation method. For this, our analyses cover LASSO, the related method of basis pursuit, as well as the SLOPE estimator.
+
+### Summer break
+
+The seminar series will take a break after July 10. We hope to see you again 
+in the fall!
 
 ## Previous talks
-
 | Date    | Speaker           | Title                                                                                                     | Resources                                                                                                                       |     |
 | :------ | :---------------- | :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ | :-- |
-| July 3  | Patrick Tardivel  | On the sign recovery by LASSO, thresholded LASSO and thresholded Basis Pursuit Denoising                  | [presentation](https://vimeo.com/435738721)                                                                                     |     |
+| July 3  | Patrick Tardivel  | On the sign recovery by LASSO, thresholded LASSO and thresholded Basis Pursuit Denoising                  | [presentation](https://vimeo.com/435738721), [slides](slides/200703-tardivel.pdf)                                               |     |
 | July 3  | Aude Sportisse    | Robust Lasso-Zero for sparse corruption and model section with missing covariates                         | [presentation](https://vimeo.com/435738647)                                                                                     |     |
 | June 26 | Lukasz Smaga      | Permutation tests for coefficients of variation in general one-way ANOVA models                           | [presentation](https://vimeo.com/433588392), [slides](slides/200626-smaga.pdf)                                                  |     |
 | June 12 | Aaron Molstad     | Insights and algorithms for the multivariate square-root lasso                                            | [slides](slides/200612-molstad.pdf), [paper](https://arxiv.org/pdf/1909.05041)                                                  |     |
