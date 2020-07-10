@@ -41,6 +41,11 @@ Here are some ground rules for these seminars:
 - If you wish to ask a question, use the **raise hand** button in the
   **participants** window.
 
+## Waiting room
+
+You will be placed in a waiting room when entering the zoom seminar. Please
+wait for the host to let you in to the meeting.
+
 # Zoom link
 
 <https://lu-se.zoom.us/j/65067339175>
@@ -55,36 +60,25 @@ at least until June 12. Each seminar starts at
 
 ## Upcoming talks
 
-### Friday, July 10, 16:30 CEST
-
-- **Speaker**: Ahmad Mousavi
-- **Title**: Solution Uniqueness of Convex Piecewise Affine Functions Based Optimization with Applications to Constrained $\ell_1$ Minimization
-- **Abstract**: We study the solution uniqueness of an individual feasible vector of a class of convex optimization problems involving convex piecewise affine functions and subject to general polyhedral constraints. This class of problems incorporates many important polyhedral constrained $\ell_1$ recovery problems arising from sparse optimization, such as basis pursuit, LASSO, and basis pursuit denoising.
-By leveraging the max-formulation of convex piecewise affine functions and convex analysis tools, we develop dual-variables-based necessary and sufficient uniqueness conditions via simple and yet unifying approaches; these conditions are applied to $\ell_1$ minimization problems under possible polyhedral constraints. An effective linear program based scheme is proposed to verify solution uniqueness conditions. The results not only recover the known solution uniqueness conditions in the literature by removing restrictive assumptions but also yield new uniqueness conditions for much broader constrained $\ell_1$-minimization problems.
-
-- **Speaker**: Patrick Tardivel
-- **Title**: The Geometry of Uniqueness and Model Selection of Penalized Estimators including SLOPE, LASSO and Basis Pursuit
-- **Abstract**: We provide a necessary and sufficient condition for the uniqueness of penalized least-squares estimators whose penalty term is a norm with a polytope unit ball. The condition is given by a geometric criterion involving how the row span of the design matrix intersects the faces of the dual norm unit ball. The criterion also provides information about the model selection properties of the corresponding estimation method. For this, our analyses cover LASSO, the related method of basis pursuit, as well as the SLOPE estimator.
-
-### Summer break
-
 The seminar series will take a break after July 10. We hope to see you again 
 in the fall!
 
 ## Previous talks
 
-| Date    | Speaker           | Title                                                                                                     | Resources                                                                                                                                   |
-| :------ | :---------------- | :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------ |
-| July 3  | Patrick Tardivel  | On the sign recovery by LASSO, thresholded LASSO and thresholded Basis Pursuit Denoising                  | [presentation](https://vimeo.com/435738721), [slides](slides/200703-tardivel.pdf), [paper](https://hal.archives-ouvertes.fr/hal-01956603v4) |
-| July 3  | Aude Sportisse    | Robust Lasso-Zero for sparse corruption and model section with missing covariates                         | [presentation](https://vimeo.com/435738647), [slides](slides/200703-sportisse.pdf), [paper](https://arxiv.org/abs/2005.05628)               |
-| June 26 | Lukasz Smaga      | Permutation tests for coefficients of variation in general one-way ANOVA models                           | [presentation](https://vimeo.com/433588392), [slides](slides/200626-smaga.pdf)                                                              |
-| June 12 | Aaron Molstad     | Insights and algorithms for the multivariate square-root lasso                                            | [slides](slides/200612-molstad.pdf), [paper](https://arxiv.org/pdf/1909.05041)                                                              |
-| June 5  | Damian Brzyski    | The adaptive incorporation of multiple sources of information in Brain Imaging via penalized optimization | [presentation](https://vimeo.com/427870917), [slides](slides/200605-brzyski.pdf)                                                            |
-| May 29  | Wojchiech Rejchel | Fast and robust procedures in high-dimensional variable selection                                         | [presentation](https://vimeo.com/424316618), [slides](slides/200529-rejchel.pdf), [paper](https://arxiv.org/abs/1905.05876)                 |
-| May 22  | Jaroslaw Harezlak | Brain Connectivity-Informed Adaptive Regularization for Generalized Outcomes                              | [presentation](https://vimeo.com/421641945), [slides](slides/200522-harezlak-brainimaging.pdf)                                              |
-| May 22  | Jaroslaw Harezlak | Wearable Devices - Statistical Learning to the Rescue                                                     | [presentation](https://vimeo.com/421640615), [slides](slides/200522-harezlak-accelerometry.pdf)                                             |
-| May 8   | Johan Larsson     | The strong screening rule for SLOPE                                                                       | [presentation](https://vimeo.com/416633997), [slides](slides/200508-johanlarsson.pdf), [paper](http://arxiv.org/abs/2005.03730)             |
-| May 8   | Patrick Tardivel  | Screening rules for the lasso                                                                             | [presentation](https://vimeo.com/416630058)                                                                                                 |
+| Date    | Speaker           | Title                                                                                                                              | Resources                                                                                                                                   |
+| :------ | :---------------- | :--------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------ |
+| July 10 | Patrick Tardivel  | The Geometry of Uniqueness and Model Selection of Penalized Estimators including SLOPE, LASSO and Basis Pursuit                    | [presentation](https://vimeo.com/437252524), [paper](https://arxiv.org/abs/2004.09106)                                                      |
+| July 10 | Ahmad Mousavi     | Solution Uniqueness of Convex Piecewise Affine Functions Based Optimization with Applications to Constrained $\ell_1$ Minimization | [presentation](https://vimeo.com/437252351), [paper](https://arxiv.org/abs/1711.05882)                                                      |
+| July 3  | Patrick Tardivel  | On the sign recovery by LASSO, thresholded LASSO and thresholded Basis Pursuit Denoising                                           | [presentation](https://vimeo.com/435738721), [slides](slides/200703-tardivel.pdf), [paper](https://hal.archives-ouvertes.fr/hal-01956603v4) |
+| July 3  | Aude Sportisse    | Robust Lasso-Zero for sparse corruption and model section with missing covariates                                                  | [presentation](https://vimeo.com/435738647), [slides](slides/200703-sportisse.pdf), [paper](https://arxiv.org/abs/2005.05628)               |
+| June 26 | Lukasz Smaga      | Permutation tests for coefficients of variation in general one-way ANOVA models                                                    | [presentation](https://vimeo.com/433588392), [slides](slides/200626-smaga.pdf)                                                              |
+| June 12 | Aaron Molstad     | Insights and algorithms for the multivariate square-root lasso                                                                     | [slides](slides/200612-molstad.pdf), [paper](https://arxiv.org/pdf/1909.05041)                                                              |
+| June 5  | Damian Brzyski    | The adaptive incorporation of multiple sources of information in Brain Imaging via penalized optimization                          | [presentation](https://vimeo.com/427870917), [slides](slides/200605-brzyski.pdf)                                                            |
+| May 29  | Wojchiech Rejchel | Fast and robust procedures in high-dimensional variable selection                                                                  | [presentation](https://vimeo.com/424316618), [slides](slides/200529-rejchel.pdf), [paper](https://arxiv.org/abs/1905.05876)                 |
+| May 22  | Jaroslaw Harezlak | Brain Connectivity-Informed Adaptive Regularization for Generalized Outcomes                                                       | [presentation](https://vimeo.com/421641945), [slides](slides/200522-harezlak-brainimaging.pdf)                                              |
+| May 22  | Jaroslaw Harezlak | Wearable Devices - Statistical Learning to the Rescue                                                                              | [presentation](https://vimeo.com/421640615), [slides](slides/200522-harezlak-accelerometry.pdf)                                             |
+| May 8   | Johan Larsson     | The strong screening rule for SLOPE                                                                                                | [presentation](https://vimeo.com/416633997), [slides](slides/200508-johanlarsson.pdf), [paper](http://arxiv.org/abs/2005.03730)             |
+| May 8   | Patrick Tardivel  | Screening rules for the lasso                                                                                                      | [presentation](https://vimeo.com/416630058)                                                                                                 |
 
 # Recordings
 
