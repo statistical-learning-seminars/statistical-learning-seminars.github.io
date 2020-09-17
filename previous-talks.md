@@ -4,7 +4,6 @@ title: Previous Talks
 ---
 
 
-
 ### Patrick Tardivel
 
 **The Geometry of Uniqueness and Model Selection of Penalized Estimators including SLOPE, LASSO and Basis Pursuit**
