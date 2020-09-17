@@ -1,0 +1,40 @@
+
+
+[
+  
+  
+    
+    
+  
+  
+  
+  {
+    "title": "About",
+    "excerpt": "\n",
+    "content": "Organization\n\nThis seminar series is a joint effort organized by\nThe Department of Mathematics, Wrocław University and\nThe Department of Statistics, Lund University.\n\nSite Administration\n\nThe site is administrated by Johan Larsson. Please\nfile an issue at our github repository\nif there is something amiss on the webpage.\n",
+    "url": "/about/"
+  },
+  
+  {
+    "title": "Statistical Learning Seminars",
+    "excerpt": "\n",
+    "content": "The effects of CoViD-19 pervades through research communities across the globe,\ncausing cancelled conferences, post-poned research visits, and suspended\nprojects. Like many others, we have sought \nother opportunities for collaboration in spite of the current state of\naffairs and have therefore organized this online seminar \nseries in statistical learning.\n\nFormat\n\nWe use zoom. Each seminar is 1 hour\nlong, with roughly 50 minutes allocated to the presentation(s) and 10 minutes to\ndiscussions. You will be placed in a waiting room when entering the zoom seminar. Please\nwait for the host to let you in to the meeting.\n\nThe seminar is held on a monthly basis every second thursday of the month \nand starts at 16:30 CEST.\n\nZoom Link\n\nhttps://lu-se.zoom.us/j/65067339175\n\nCalendar Event\n\nLink to calendar event\n\nUpcoming talks\n\nThe seminar will resume agains in November.\n\nRecordings\n\nRecordings of previous talks are hosted at\nhttps://www.youtube.com/channel/UCfRCi0V-3mvax-nWSadgMBQ.\n",
+    "url": "/"
+  },
+  
+  {
+    "title": "Links",
+    "excerpt": "\n",
+    "content": "Other Online Seminars\n\n\n  One World Probability Seminar\n  One World Optimization Seminar\n  One World ABC (Approximate Bayesian Computation) Seminar\n  One World Mathematics of INformation, Data, and Signals (MINDS) Seminar\n  One World Stochastic Numerics and Inverse Problems (SNIP) Seminar\n  One World PDE Seminar\n  One World Mathematical Game Theory Seminar\n  One World Seminar: Mathematical Methods for Arbitrary Data Sources\n  One World Cognitive Psychologie Seminar\n  International Seminar on Selective Inference\n  Online Causal Inference Seminar\n\n",
+    "url": "/links/"
+  },
+  
+  {
+    "title": "Previous Talks",
+    "excerpt": "\n",
+    "content": "2020\n\n\n  \n    \n      Date\n      Speaker\n      Title\n      Resources\n    \n  \n  \n    \n      July 10\n      Patrick Tardivel\n      The Geometry of Uniqueness and Model Selection of Penalized Estimators including SLOPE, LASSO and Basis Pursuit\n      presentation, paper\n    \n    \n      July 10\n      Ahmad Mousavi\n      Solution Uniqueness of Convex Piecewise Affine Functions Based Optimization with Applications to Constrained $\\ell_1$ Minimization\n      presentation, paper\n    \n    \n      July 3\n      Patrick Tardivel\n      On the sign recovery by LASSO, thresholded LASSO and thresholded Basis Pursuit Denoising\n      presentation, slides, paper\n    \n    \n      July 3\n      Aude Sportisse\n      Robust Lasso-Zero for sparse corruption and model section with missing covariates\n      presentation, slides, paper\n    \n    \n      June 26\n      Lukasz Smaga\n      Permutation tests for coefficients of variation in general one-way ANOVA models\n      presentation, slides\n    \n    \n      June 12\n      Aaron Molstad\n      Insights and algorithms for the multivariate square-root lasso\n      slides, paper\n    \n    \n      June 5\n      Damian Brzyski\n      The adaptive incorporation of multiple sources of information in Brain Imaging via penalized optimization\n      presentation, slides\n    \n    \n      May 29\n      Wojchiech Rejchel\n      Fast and robust procedures in high-dimensional variable selection\n      presentation, slides, paper\n    \n    \n      May 22\n      Jaroslaw Harezlak\n      Brain Connectivity-Informed Adaptive Regularization for Generalized Outcomes\n      presentation, slides\n    \n    \n      May 22\n      Jaroslaw Harezlak\n      Wearable Devices - Statistical Learning to the Rescue\n      presentation, slides\n    \n    \n      May 8\n      Johan Larsson\n      The strong screening rule for SLOPE\n      presentation, slides, paper\n    \n    \n      May 8\n      Patrick Tardivel\n      Screening rules for the lasso\n      presentation\n    \n  \n\n",
+    "url": "/previous-talks/"
+  }
+  
+]
+
