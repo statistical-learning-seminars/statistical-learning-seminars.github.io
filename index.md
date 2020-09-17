@@ -32,7 +32,7 @@ and starts at [16:30 CEST](https://www.thetimezoneconverter.com/?t=16%3A30%20pm&
 
 ## Upcoming talks
 
-The seminar will resume agains in November.
+The seminar will resume in November.
 
 ## Recordings
 
