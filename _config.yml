@@ -34,10 +34,8 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
+- title: Previous Talks
+  url: /previous-talks/
 
 # Footer nav
 navigation_footer:
