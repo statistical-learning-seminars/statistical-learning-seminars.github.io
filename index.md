@@ -30,9 +30,26 @@ and starts at [16:30 CEST](https://www.thetimezoneconverter.com/?t=16%3A30%20pm&
 
 [Link to calendar event](https://lu-se.zoom.us/meeting/u5Etce6rrTIrHdGmDxIUKT33_HsILcrt6Tui/ics?icsToken=98tyKu-trj0tGdecsR6CR_MMAo_oKOnztlhcgqd6kTv9KhV4VlClCcpRG558AsyG)
 
-## Upcoming talks
+## Upcoming talk
 
-The seminar will resume in November.
+### October 8, 16.30 CEST
+
+#### Jakub Gismatullin
+
+**Title**
+:    On Stirling numbers of the second type and applications
+
+**Abstract**
+:    TBA
+
+#### Tomasz Skalski
+
+**Title**
+:    Maximum likelihood estimation for discrete 
+     exponential families and random graphs (tentative)
+
+**Abstract**
+:    TBA
 
 ## Recordings
 
