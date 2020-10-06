@@ -36,18 +36,6 @@ See [Previous Talks](/previous-talks) for a list of previous talks.
 
 ### October 15, 16.30 CEST
 
-#### Jakub Gismatullin
-
-**Title**
-:    On Stirling numbers of the second type and applications
-
-**Abstract**
-:    TBA
-
-Submit questions for Jakub's talk using the form below.
-
-{% include site-form.html %}
-
 #### Tomasz Skalski
 
 **Title**
@@ -56,6 +44,21 @@ Submit questions for Jakub's talk using the form below.
 
 **Abstract**
 :    TBA
+
+#### Jakub Gismatullin
+
+**Title**
+:    On Stirling numbers of the second type and applications
+
+**Abstract**
+:    TBA
+
+Jakub's talk will be recorded and provided prior to the the talk. The session itself
+will be a discussion led by a discussant (to be announced). You can, and are encouraged
+to, submit questions for this discussion; please use the form below to do so.
+
+{% include site-form.html %}
+
 
 ## Organization
 
