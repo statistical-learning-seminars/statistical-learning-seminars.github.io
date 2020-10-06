@@ -22,6 +22,8 @@ wait for the host to let you in to the meeting.
 The seminar is held on a monthly basis every second thursday of the month 
 and starts at [16:30 CEST](https://www.thetimezoneconverter.com/?t=16%3A30%20pm&tz=Warsaw&).
 
+See [Previous Talks](/previous-talks) for a list of previous talks.
+
 ### Zoom Link
 
 <https://lu-se.zoom.us/j/65067339175>
@@ -30,9 +32,9 @@ and starts at [16:30 CEST](https://www.thetimezoneconverter.com/?t=16%3A30%20pm&
 
 [Link to calendar event](https://lu-se.zoom.us/meeting/u5Etce6rrTIrHdGmDxIUKT33_HsILcrt6Tui/ics?icsToken=98tyKu-trj0tGdecsR6CR_MMAo_oKOnztlhcgqd6kTv9KhV4VlClCcpRG558AsyG)
 
-## Upcoming talk
+## Upcoming Talk
 
-### October 8, 16.30 CEST
+### October 15, 16.30 CEST
 
 #### Jakub Gismatullin
 
@@ -41,6 +43,10 @@ and starts at [16:30 CEST](https://www.thetimezoneconverter.com/?t=16%3A30%20pm&
 
 **Abstract**
 :    TBA
+
+Submit questions for Jakub's talk using the form below.
+
+{% include site-form.html %}
 
 #### Tomasz Skalski
 
@@ -51,7 +57,21 @@ and starts at [16:30 CEST](https://www.thetimezoneconverter.com/?t=16%3A30%20pm&
 **Abstract**
 :    TBA
 
-## Recordings
+## Organization
 
-Recordings of previous talks are hosted at
-<https://www.youtube.com/channel/UCfRCi0V-3mvax-nWSadgMBQ>.
+This seminar series is a joint effort organized by
+[The Department of Mathematics, Wrocław University](https://www.math.uni.wroc.pl),
+[The Department of Mathematics, University of Burgundy](https://math.u-bourgogne.fr/), and
+[The Department of Statistics, Lund University](https://stat.lu.se).
+
+<div class="row">
+  <div class="column">
+    <img src="assets/logo-lu.svg" alt="Lund University" style="height:170px">
+  </div>
+  <div class="column">
+    <img src="assets/logo-burgundy.png" alt="University of Burgundy" style="width:auto height:170px">
+  </div>
+  <div class="column">
+    <img src="assets/logo-wroclaw.svg" alt="Wroclaw University" style="height:170px">
+  </div>
+</div> 

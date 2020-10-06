@@ -32,4 +32,18 @@ table {
   }
 }
 
+ /* Three image containers (use 25% for four, and 50% for two, etc) */
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 10px;
+  justify-content: center;
+}
+
 @import "alembic";

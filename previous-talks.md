@@ -3,6 +3,9 @@ layout: page
 title: Previous Talks
 ---
 
+Recordings of previous talks are hosted at
+<https://www.youtube.com/channel/UCfRCi0V-3mvax-nWSadgMBQ>.
+
 ## 2020
 
 | Date    | Speaker           | Title                                                                                                                              | Resources                                                                                                                                   |
