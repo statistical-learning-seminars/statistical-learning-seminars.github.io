@@ -5,7 +5,7 @@ feature_image:
 feature_text:
 ---
 
-The effects of CoViD-19 pervades through research communities across the globe,
+The effects of CoViD-19 pervade through research communities across the globe,
 causing cancelled conferences, post-poned research visits, and suspended
 projects. Like [many others](/links), we have sought 
 other opportunities for collaboration in spite of the current state of
