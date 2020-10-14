@@ -16,13 +16,13 @@ series in statistical learning.
 
 We use [zoom](https://zoom.us/). Each seminar is 1 hour
 long, with roughly 50 minutes allocated to the presentation(s) and 10 minutes to
-discussions. You will be placed in a waiting room when entering the zoom seminar. Please
+discussions. You will be placed in a waiting room upon entering the seminar. Please
 wait for the host to let you in to the meeting.
 
 The seminar is held on a monthly basis every second thursday of the month 
 and starts at [16:30 CEST](https://www.thetimezoneconverter.com/?t=16%3A30%20pm&tz=Warsaw&).
-
-See [Previous Talks](/previous-talks) for a list of previous talks.
+See [Previous Talks](/previous-talks) for recordings, slides, and resources from previous
+seminars.
 
 ### Zoom Link
 
@@ -43,17 +43,6 @@ See [Previous Talks](/previous-talks) for a list of previous talks.
 
 **Abstract**
 : We approach the problem of the existence of maximum likelihood estimators (MLE) for discrete exponential families. Using the notion of sets of uniqueness, we give new criterion for the existence of MLE. We show how this criterion can be applied in various settings, most notably of exponential models of random graphs and for linear spaces spanned by Rademacherfunctions. Additionally, we give a few remarks concerning the existence of MLE for spaces spanned by products of Rademacher functions. The research is joint work with Krzysztof Bogdan and Michał Bosy. 
-
-#### Jakub Gismatullin
-
-**Title**
-: On Stirling numbers of the second type and applications
-
-Jakub's talk will be recorded and provided prior to the the talk. The session itself
-will be a discussion led by a discussant (to be announced). You can, and are encouraged
-to, submit questions for this discussion; please use the form below to do so.
-
-{% include site-form.html %}
 
 ## Organization
 
