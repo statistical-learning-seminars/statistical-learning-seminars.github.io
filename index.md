@@ -34,15 +34,20 @@ seminars.
 
 ## Upcoming Talk
 
-### October 15, 16.30 CEST
+### November 12, 16.30 CEST
 
-#### Tomasz Skalski
+#### Pierre Bellec (Rutgers university)
 
-**Title**
-: Maximum likelihood estimation for discrete exponential families and random graphs
+Title
+: SLOPE meets LASSO
 
-**Abstract**
-: We approach the problem of the existence of maximum likelihood estimators (MLE) for discrete exponential families. Using the notion of sets of uniqueness, we give new criterion for the existence of MLE. We show how this criterion can be applied in various settings, most notably of exponential models of random graphs and for linear spaces spanned by Rademacherfunctions. Additionally, we give a few remarks concerning the existence of MLE for spaces spanned by products of Rademacher functions. The research is joint work with Krzysztof Bogdan and Michał Bosy. 
+Abstract
+: TBA
+
+#### Samuel Vaiter (Dijon university)
+
+Title
+: TBA
 
 ## Organization
 
