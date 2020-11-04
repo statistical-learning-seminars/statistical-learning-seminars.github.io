@@ -28,6 +28,31 @@ seminars.
 
 <https://lu-se.zoom.us/j/65067339175>
 
+### Mailing List
+
+Subscribe to our mailing list to receive announcements for upcoming seminars.
+
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://github.us2.list-manage.com/subscribe/post?u=ef5f2fd5d3ec3482bc10af803&amp;id=40f352a062" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ef5f2fd5d3ec3482bc10af803_40f352a062" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<!--End mc_embed_signup-->
+
+
 ### Calendar Event
 
 [Link to calendar event](https://lu-se.zoom.us/meeting/u5Etce6rrTIrHdGmDxIUKT33_HsILcrt6Tui/ics?icsToken=98tyKu-trj0tGdecsR6CR_MMAo_oKOnztlhcgqd6kTv9KhV4VlClCcpRG558AsyG)
@@ -47,7 +72,17 @@ Abstract
 #### Samuel Vaiter (Dijon university)
 
 Title
-: TBA
+: Hyper-Parameter Selection by Algorithmic Differentiation
+
+Samuel's talk has been pre-recorded and is embedded below. You can download the slides
+[here](slides/201112-vaiter.pdf).
+
+{% include video.html id="l1kkjfoJAyA" %}
+
+The seminar itself will be dedicated to a discussion on Samuel's presentation. Please
+use the form below to submit questions regarding the presentation.
+
+{% include site-form.html %}
 
 ## Organization
 
