@@ -80,7 +80,8 @@ Samuel's talk has been pre-recorded and is embedded below. You can download the 
 {% include video.html id="l1kkjfoJAyA" %}
 
 The seminar itself will be dedicated to a discussion on Samuel's presentation. Please
-use the form below to submit questions regarding the presentation.
+use the form below to submit questions (no later than one hour before
+the seminar) regarding the presentation.
 
 {% include site-form.html %}
 
