@@ -64,17 +64,20 @@ Subscribe to our mailing list to receive announcements for upcoming seminars.
 #### Pierre Bellec (Rutgers university)
 
 Title
-: SLOPE meets LASSO
+: Degrees-of-freedom, asymptotic normality and risk estimation for high-dimensional regularized estimators
 
 Abstract
-: TBA
+: I will present some general results for regularized estimators such as Lasso, SLOPE and the Group-Lasso in high-dimensional regression. Two major problems for uncertainty quantifications in high-dimensions are asymptotic normality of coefficients of the estimators and estimation of the error, for instance measured in L2 loss. Despite the huge literature on high-dimensional statistics, theory for asymptotic normality and loss estimation has so far mostly focused on the Lasso. I will present some general theory that applies to a large class of penalized estimators in high-dimensions, covering (a) asymptotic normality and de-biasing corrections, to construct confidence intervals for single coefficient of the unknown regression vector, and (b) estimation of the risk when measured in L2 loss, for instance to perform parameter tuning. The common framework for these results throughout the presentation will be linear regression with Gaussian design in the asymptotic regime $p/n \rightarrow \gamma$ for some constant $\gamma$. Both for asymptotic normality and error estimation, the theory relies on novel use of the effective degrees-of-freedom introduced by Stein (1981). The theory will be illustrated with simulation results on Slope and Lasso, and time permitting, I will mention generalizations to robust loss functions beyond the square loss.
 
 #### Samuel Vaiter (Dijon university)
 
 Title
 : Hyper-Parameter Selection by Algorithmic Differentiation
 
-Samuel's talk has been pre-recorded and is embedded below. You can download the slides
+Discussant
+: Ulrike Schneider (TU Vienna)
+
+Samuel's talk has been pre-recorded and is embedded below. You can access his slides
 [here](slides/201112-vaiter.pdf).
 
 {% include video.html id="l1kkjfoJAyA" %}
