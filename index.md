@@ -84,6 +84,7 @@ Discussant
 Resources
 : - [website](https://qb3.github.io/)
   - [paper](http://proceedings.mlr.press/v108/massias20a/massias20a.pdf)
+  - [slides](/slides/201210-bertrand.pdf)
 
 {% include video.html id="bOe0Y1zOISo" %}
 
