@@ -59,40 +59,7 @@ Subscribe to our mailing list to receive announcements for upcoming seminars.
 
 ## Upcoming Talk
 
-### December 10, [16:30 CEST](https://www.thetimezoneconverter.com/?t=16%3A30%20pm&tz=Warsaw&)
-
-#### Waheed U. Bajwa (Rutgers University)
-
-Title
-: Extended Sure Independence Screening for Big Data Analytics
-
-Abstract
-: We are living in the age of big data, in which devices ranging from smartphones and thermostats to wearable fitness trackers and intelligent personal assistants have the ability to generate millions of data points on a daily basis. Unfortunately, exploratory and predictive data analytics can be computationally prohibitive for ultrahigh-dimensional datasets. Correlation-based screening, in which one leverages marginal correlations for removal of irrelevant variables prior to data analytics, can be used to overcome this challenge. Prior works on correlation-based variable screening either impose strong statistical priors on the model or assume specific post-screening analytics techniques. In this talk, we extend the analysis of correlation-based variable screening to arbitrary linear models and post-screening inference techniques. In particular, (i) we show that a condition---termed the screening condition---is sufficient for successful correlation-based screening of linear models, and (ii) we provide insights into the dependence of marginal correlation-based screening on different problem parameters.
-
-- [website](http://www.inspirelab.us)
-- [biography](http://www.inspirelab.us/people/#BajwaBio)
-- [paper](https://arxiv.org/abs/1708.06077)
-
-#### Quentin Bertrand (Inria Paris--Saclay)
-
-Title
-: Support Recovery and Sup-Norm Convergence Rates for Sparse Pivotal Estimation
-
-Discussant
-: TBA
-
-Resources
-: - [website](https://qb3.github.io/)
-  - [paper](http://proceedings.mlr.press/v108/massias20a/massias20a.pdf)
-  - [slides](/slides/201210-bertrand.pdf)
-
-{% include video.html id="bOe0Y1zOISo" %}
-
-The seminar itself will be dedicated to a discussion on Bertrand's presentation. Please
-use the form below to submit questions (no later than one hour before
-the seminar) regarding the presentation.
-
-{% include site-form.html %}
+The next seminar will take place in January; stay tuned for more information!
 
 ## Organization
 
