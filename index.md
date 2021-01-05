@@ -6,7 +6,7 @@ feature_text:
 ---
 
 The effects of CoViD-19 pervade through research communities across the globe,
-causing cancelled conferences, post-poned research visits, and suspended
+causing canceled conferences, postponed research visits, and suspended
 projects. Like [many others](/links), we have sought 
 other opportunities for collaboration in spite of the current state of
 affairs and have therefore organized this online seminar 
@@ -19,8 +19,7 @@ long, with roughly 50 minutes allocated to the presentation(s) and 10 minutes to
 discussions. You will be placed in a waiting room upon entering the seminar. Please
 wait for the host to let you in to the meeting.
 
-The seminar is held on a monthly basis every second thursday of the month 
-and starts at [16:30 CEST](https://www.thetimezoneconverter.com/?t=16%3A30%20pm&tz=Warsaw&).
+The seminar is held on a monthly basis on Fridays, starting at [15:30 CEST](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&).
 See [Previous Talks](/previous-talks) for recordings, slides, and resources from previous
 seminars.
 
@@ -59,7 +58,15 @@ Subscribe to our mailing list to receive announcements for upcoming seminars.
 
 ## Upcoming Talk
 
-The next seminar will take place in January; stay tuned for more information!
+### January 29, [16:30 CEST](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
+
+#### Michael Weylandt (University of Florida)
+
+Title
+: TBA
+
+Abstract
+: TBA
 
 ## Organization
 
