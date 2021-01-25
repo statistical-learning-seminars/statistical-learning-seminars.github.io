@@ -63,10 +63,24 @@ Subscribe to our mailing list to receive announcements for upcoming seminars.
 #### Michael Weylandt (University of Florida)
 
 Title
-: TBA
+: Convex Clustering: Methods, Theory, Algorithms, and Visualizations
 
 Abstract
-: TBA
+: Convex clustering is a promising new approach to the classical problem
+of clustering, combining strong performance in empirical studies with
+rigorous theoretical foundations. The past few years have seen a surge
+of interest in convex clustering and breakthroughs in associated
+theory and methodology. In this talk, I will review this exciting
+literature, with a particular focus on novel computational strategies
+developed to construct dendrograms and interactive visualizations from
+convex clustering approaches. This talk reflects joint work with
+Genevera Allen, Yue Hu, George Michailidis, John Nagorski, Mitch
+Rodenberry, Minjie Wang, and Tianyi Yao.
+
+Related Papers
+: * [Simultaneous Grouping and Denoising via Sparse Convex Wavelet Clustering](https://arxiv.org/abs/2012.04762)
+  * [Automatic Registration and Convex Clustering of Time Series](https://arxiv.org/abs/2012.04756)
+  * [Splitting Methods for Convex Bi-Clustering and Co-Clustering](https://arxiv.org/abs/1901.06075)
 
 ## Organization
 
