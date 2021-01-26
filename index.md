@@ -58,7 +58,7 @@ Subscribe to our mailing list to receive announcements for upcoming seminars.
 
 ## Upcoming Talk
 
-### January 29, [16:30 CEST](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
+### January 29, [15:30 CEST](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
 
 #### Michael Weylandt (University of Florida)
 
