@@ -14,12 +14,14 @@ series in statistical learning.
 
 ## Format
 
-We use [zoom](https://zoom.us/). Each seminar is 1 hour
-long, with roughly 50 minutes allocated to the presentation(s) and 10 minutes to
-discussions. You will be placed in a waiting room upon entering the seminar. Please
-wait for the host to let you in to the meeting.
+We use [zoom](https://zoom.us/) for all the sessions. Upon joining
+the seminar, you will be placed in a 
+waiting room; please wait for the host to let you in to the 
+meeting.
 
-The seminar is held on a monthly basis on Fridays, starting at [15:30 CEST](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&).
+The seminars are approximately an hour long with anywhere between 20 and 40 minutes
+allocated to the presentation and the rest for discussion. Sessions are held on a regular basis 
+on Fridays at [15:30 CEST](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&).
 See [Previous Talks](/previous-talks) for recordings, slides, and resources from previous
 seminars.
 
