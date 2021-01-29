@@ -21,7 +21,7 @@ meeting.
 
 The seminars are approximately an hour long with anywhere between 20 and 40 minutes
 allocated to the presentation and the rest for discussion. Sessions are held on a regular basis 
-on Fridays at [15:30 CEST](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&).
+on Fridays at [15:30 CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&).
 See [Previous Talks](/previous-talks) for recordings, slides, and resources from previous
 seminars.
 
@@ -40,7 +40,7 @@ To receive announcements for upcoming seminars, go to
 
 ## Upcoming Talk
 
-### January 29, [15:30 CEST](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
+### January 29, [15:30 CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
 
 #### Michael Weylandt (University of Florida)
 
