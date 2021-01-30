@@ -31,7 +31,7 @@ seminars.
 
 ### Mailing List
 
-To receive announcements for upcoming seminars, go to
+To receive announcements for upcoming seminars, please join the group at
 <https://groups.google.com/g/statlearnsem>.
 
 ### Calendar Event
