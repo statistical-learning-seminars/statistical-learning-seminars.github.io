@@ -11,6 +11,27 @@ title: Previous Talks
 Recordings of previous talks are hosted at
 <https://www.youtube.com/channel/UCfRCi0V-3mvax-nWSadgMBQ>.
 
+## 2021
+
+<table id="talks2020">
+  <thead>
+    <tr>
+      <th style="text-align: left">Date</th>
+      <th style="text-align: left">Speaker</th>
+      <th style="text-align: left">Title</th>
+      <th style="text-align: left">Resources</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Jan 29</td>
+      <td style="text-align: left">Michael Weylandt</td>
+      <td style="text-align: left">Convex Clustering: Methods, Theory, Algorithms, and Visualizations</td>
+      <td style="text-align: left"><a href="https://youtu.be/Dp7_I4s0S_s">presentation</a></td>
+    </tr>
+  </tbody>
+</table>
+
 ## 2020
 
 <table id="talks2020">
