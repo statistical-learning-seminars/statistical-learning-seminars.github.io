@@ -45,13 +45,15 @@ To receive announcements for upcoming seminars, please join the group at
 #### Zakhar Kabluchko
 
 Title
-: TBA
+: Conic intrinsic volumes and phase transitions for high-dimensional polytopes
 
 Abstract
-: TBA
+: We shall review the notion of conic intrinsic volumes and provide some explicit examples. 
+  In particular, we will show examples of random polytopes exhibiting phase transitions when
+  the dimension goes to infinity.  
 
 Related Papers
-: * [Projections and angle sums of permutohedra and other polytopes](https://arxiv.org/abs/2009.04186v1)
+: * [Living on the edge: Phase transitions in convex programs with random data](https://arxiv.org/abs/1303.6672)
 
 ## Organization
 
