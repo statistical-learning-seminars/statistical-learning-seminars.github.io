@@ -24,6 +24,14 @@ Recordings of previous talks are hosted at
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: left">Feb 12</td>
+      <td style="text-align: left">Zakhar Kabluchko</td>
+      <td style="text-align: left">Conic intrinsic volumes and phase transitions for high-dimensional polytopes</td>
+      <td style="text-align: left"><a href="https://youtu.be/PZgX_mB6eks">presentation</a>, <a href="https://arxiv.org/abs/1303.6672">paper</a></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
       <td style="text-align: left">Jan 29</td>
       <td style="text-align: left">Michael Weylandt</td>
       <td style="text-align: left">Convex Clustering: Methods, Theory, Algorithms, and Visualizations</td>
