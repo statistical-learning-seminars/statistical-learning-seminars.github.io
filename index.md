@@ -40,20 +40,18 @@ To receive announcements for upcoming seminars, please join the group at
 
 ## Upcoming Talk
 
-### February 12, [15:30 CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
+### April 23, [15:30 CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
 
-#### Zakhar Kabluchko
+#### Pragya Sur (Harvard University)
 
 Title
-: Conic intrinsic volumes and phase transitions for high-dimensional polytopes
+: TBA 
 
 Abstract
-: We shall review the notion of conic intrinsic volumes and provide some explicit examples. 
-  In particular, we will show examples of random polytopes exhibiting phase transitions when
-  the dimension goes to infinity.  
+: TBA
 
 Related Papers
-: * [Living on the edge: Phase transitions in convex programs with random data](https://arxiv.org/abs/1303.6672)
+: TBA
 
 ## Organization
 
