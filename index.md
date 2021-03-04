@@ -38,7 +38,30 @@ To receive announcements for upcoming seminars, please join the group at
 
 [Link to calendar event](https://lu-se.zoom.us/meeting/u5Etce6rrTIrHdGmDxIUKT33_HsILcrt6Tui/ics?icsToken=98tyKu-trj0tGdecsR6CR_MMAo_oKOnztlhcgqd6kTv9KhV4VlClCcpRG558AsyG)
 
-## Upcoming Talk
+## Upcoming Talks
+
+### April 9, [15:30 CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
+
+#### Laura Freijeiro Gonzalez (Santiago de Compostela University)
+
+Title
+: Analysis of LASSO and its derivatives for variable selection under dependence among 
+  covariates
+
+Abstract
+: The LASSO regression has been widely used in the high-dimensional linear regression model
+  due to its capability of reducing the dimension of the problem. However, some rigid 
+  assumptions on the covariates matrix and sample size, as well as the sparsity nature of the
+  coefficient vector, are needed so as to guarantee the good behavior of the algorithm. Apart 
+  from drawbacks related to the correct selection of covariates and bias. All these 
+  characteristics have been studied assuming independence, but not under dependence structures
+  among covariates. To fill this gap, examples of these drawbacks are showed by means of a 
+  extensive simulation study, making use of different dependence scenarios. Besides, a broad 
+  comparison with LASSO derivatives and alternatives is carried out, resulting in some 
+  guidance about what procedures are the best in terms of the data nature.
+
+Related Papers
+: [A critical review of LASSO and its derivatives for variable selection under dependence among covariates](https://arxiv.org/pdf/2012.11470.pdf)
 
 ### April 23, [15:30 CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
 
