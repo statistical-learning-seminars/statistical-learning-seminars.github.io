@@ -63,6 +63,16 @@ Abstract
 Related Papers
 : [A critical review of LASSO and its derivatives for variable selection under dependence among covariates](https://arxiv.org/pdf/2012.11470.pdf)
 
+### April 16, [15:30 CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
+
+#### Daniel Yekutieli (Tel Aviv University)
+
+Title
+: TBA
+
+Abstract
+: TBA
+
 ### April 23, [15:30 CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
 
 #### Pragya Sur (Harvard University)
