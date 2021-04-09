@@ -24,6 +24,14 @@ Recordings of previous talks are hosted at
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: left">April 9</td>
+      <td style="text-align: left">Laura Freijeiro Gonzalez</td>
+      <td style="text-align: left">Analysis of LASSO and its derivatives for variable selection under dependence among covariates</td>
+      <td style="text-align: left"><a href="https://youtu.be/QZYGnvMGkp0">presentation</a>, <a href="https://arxiv.org/pdf/2012.11470.pdf">paper</a></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
       <td style="text-align: left">Feb 12</td>
       <td style="text-align: left">Zakhar Kabluchko</td>
       <td style="text-align: left">Conic intrinsic volumes and phase transitions for high-dimensional polytopes</td>
