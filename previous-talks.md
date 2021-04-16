@@ -4,8 +4,8 @@ title: Previous Talks
 ---
 
 <style>
-    #talks2020 td:nth-child(1)  {white-space: nowrap;}
-    #talks2020 td:nth-child(2)  {white-space: nowrap;}
+    .talks td:nth-child(1)  {white-space: nowrap;}
+    .talks td:nth-child(2)  {white-space: nowrap;}
 </style>
 
 Recordings of previous talks are hosted at
@@ -13,7 +13,7 @@ Recordings of previous talks are hosted at
 
 ## 2021
 
-<table id="talks2020">
+<table class="talks">
   <thead>
     <tr>
       <th style="text-align: left">Date</th>
@@ -22,6 +22,14 @@ Recordings of previous talks are hosted at
       <th style="text-align: left">Resources</th>
     </tr>
   </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">April 16</td>
+      <td style="text-align: left">Daniek Yekutieli</td>
+      <td style="text-align: left">Optimal Inference in Large-Scale Problems</td>
+      <td style="text-align: left"><a href="https://youtu.be/3iTlESJLd1">presentation</a>, <a href="https://arxiv.org/abs/1908.08444">paper</a></td>
+    </tr>
+  </tbody>
   <tbody>
     <tr>
       <td style="text-align: left">April 9</td>
@@ -48,9 +56,11 @@ Recordings of previous talks are hosted at
   </tbody>
 </table>
 
+<br>
+
 ## 2020
 
-<table id="talks2020">
+<table class="talks">
   <thead>
     <tr>
       <th style="text-align: left">Date</th>
