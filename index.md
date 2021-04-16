@@ -5,25 +5,24 @@ feature_image:
 feature_text:
 ---
 
-The effects of CoViD-19 pervade through research communities across the globe,
-causing canceled conferences, postponed research visits, and suspended
-projects. Like [many others](/links), we have sought
-other opportunities for collaboration in spite of the current state of
-affairs and have therefore organized this online seminar
-series in statistical learning.
+The effects of CoViD-19 pervade through research communities across the
+globe, causing canceled conferences, postponed research visits, and suspended
+projects. Like [many others](/links), we have sought other opportunities for
+collaboration in spite of the current state of affairs and have therefore
+organized this online seminar series in statistical learning.
 
 ## Format
 
-We use [zoom](https://zoom.us/) for all the sessions. Upon joining
-the seminar, you will be placed in a
-waiting room; please wait for the host to let you in to the
-meeting.
+We use [zoom](https://zoom.us/) for all the sessions. Upon joining the
+seminar, you will be placed in a waiting room; please wait for the host to
+let you in to the meeting.
 
-The seminars are approximately an hour long with anywhere between 20 and 40 minutes
-allocated to the presentation and the rest for discussion. Sessions are held on a regular basis
-on Fridays at [15:30 CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&).
-See [Previous Talks](/previous-talks) for recordings, slides, and resources from previous
-seminars.
+The seminars are approximately an hour long with anywhere between 20 and 40
+minutes allocated to the presentation and the rest for discussion. Sessions
+are held on a regular basis on Fridays at [15:30
+CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&). See
+[Previous Talks](/previous-talks) for recordings, slides, and resources from
+previous seminars.
 
 ### Zoom Link
 
