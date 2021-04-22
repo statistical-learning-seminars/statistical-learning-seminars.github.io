@@ -27,7 +27,10 @@ Recordings of previous talks are hosted at
       <td style="text-align: left">April 16</td>
       <td style="text-align: left">Daniek Yekutieli</td>
       <td style="text-align: left">Optimal Inference in Large-Scale Problems</td>
-      <td style="text-align: left"><a href="https://youtu.be/3iTlESJLd1">presentation</a>, <a href="https://arxiv.org/abs/1908.08444">paper</a></td>
+      <td style="text-align: left">
+        <a href="https://youtu.be/3iTlESJLd1">presentation</a>,
+        <a href="/slides/210416-yekutieli.pdf">slides</a>,
+        <a href="https://arxiv.org/abs/1908.08444">paper</a></td>
     </tr>
   </tbody>
   <tbody>
