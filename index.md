@@ -39,38 +39,38 @@ To receive announcements for upcoming seminars, please join the group at
 
 ## Upcoming Talks
 
-### April 23, [15:30 CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
-
-#### Pragya Sur (Harvard University)
+### May 6, [15:30 CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
 
 Title
-: A precise high-dimensional asymptotic theory for AdaBoost
+: On the Maximum a Posteriori partition in nonparametric Bayesian mixture models
 
 Abstract
-: This talk will introduce a precise high-dimensional asymptotic theory for
-  AdaBoost on separable data, taking both statistical and computational
-  perspectives. We will consider the common modern setting where the number of
-  features p and the sample size n are both large and comparable, and in
-  particular, look at scenarios where the data is separable in an asymptotic
-  sense. Under a class of statistical models, we will provide an
-  (asymptotically) exact analysis of the generalization error of AdaBoost, when
-  the algorithm interpolates the training data and maximizes an empirical L1
-  margin. On the computational front, we provide a sharp analysis of the
-  stopping time when boosting approximately maximizes the empirical L1 margin.
-  Our theory provides several insights into properties of Boosting; for
-  instance, the larger the dimensionality ratio p/n, the faster the
-  optimization reaches interpolation. At the heart of our theory lies an
-  in-depth study of the maximum L1-margin, which can be accurately described by
-  a new system of non-linear equations; we analyze this margin and the
-  properties of this system, using Gaussian comparison techniques and a novel
-  uniform deviation argument. Time permitting, I will present a new class of
-  boosting algorithms that correspond to Lq geometry, for q>1, together with
-  results on their high-dimensional generalization and optimization behavior.
-  This is based on joint work with Tengyuan Liang.
+: In nonparametric Bayesian mixture models we assume that the data is an iid
+  sample from an infinite mixture of component distributions; the mixture
+  weights and the parameters of the components are random. This approach can
+  be applied to cluster analysis; in this context it is convenient to think
+  that we have a prior distribution on the space of all possible partitions of
+  data (e.g. the Chineses Restaurant Process) and the likelihood is obtained
+  by marginalising the parameter out of component distributions. This can be
+  transformed into the posterior on the space of possible clusterings; as is
+  rather common in the Bayesian setting, this posterior is known up to
+  intractable normalising constant.  During the talk we are going to present
+  some properties of the MAP partition - the one that maximises the posterior
+  probability. Firstly we will describe the results of (1) that concern the
+  Chinese Restaurant prior on partitions and the component distributions being
+  multivariate Gaussian with unknown mean but known (and the same for all
+  components) covariance. Those findings concern the geometry of the MAP
+  partition (we prove that in this case the MAP clusters are linearly separated
+  from each other) and its asymptotic behaviour. Then we will show
+  generalisations of some of these results to general infinite mixture models,
+  when the component measures and the prior on their parameters belong to
+  conjugate exponential families. Finally we present a 'score function' for
+  clusterings, related to our analysis. This score function can be used to
+  choose among clustering propositions suggested by more computationally
+  efficient algorithms, like K-means.
 
 Related Papers
-: [A Precise High-Dimensional Asymptotic Theory for Boosting and Minimum-L1-Norm
-   Interpolated Classifiers](https://arxiv.org/abs/2002.01586)
+: [Analysis of the Maximal a Posteriori Partition in the Gaussian Dirichlet Process Mixture Model](https://projecteuclid.org/journals/bayesian-analysis/volume-14/issue-2/Analysis-of-the-Maximal-a-Posteriori-Partition-in-the-Gaussian/10.1214/18-BA1114.full)
 
 ### May 28, [15:30 CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
 
