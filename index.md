@@ -41,6 +41,8 @@ To receive announcements for upcoming seminars, please join the group at
 
 ### May 6, [15:30 CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
 
+#### Lukasz Rajkowski (University of Warsaw)
+
 Title
 : On the Maximum a Posteriori partition in nonparametric Bayesian mixture models
 
