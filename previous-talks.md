@@ -28,8 +28,7 @@ Recordings of previous talks are hosted at
       <td style="text-align: left">Pragya Sur</td>
       <td style="text-align: left">A precise high-dimensional asymptotic theory for AdaBoost</td>
       <td style="text-align: left">
-        <!-- <a href="https://youtu.be/3iTlESJLd1g">presentation</a>, -->
-        <!-- <a href="/slides/210416-yekutieli.pdf">slides</a>, -->
+        <a href="https://youtu.be/cR3VLE6vljc">presentation</a>,
         <a href="https://arxiv.org/abs/2002.01586">paper</a></td>
     </tr>
   </tbody><tbody>
