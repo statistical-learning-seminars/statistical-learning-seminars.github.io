@@ -39,40 +39,18 @@ To receive announcements for upcoming seminars, please join the group at
 
 ## Upcoming Talks
 
-### May 7, [15:30 CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
+### May 21, [15:30 CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
 
-#### Lukasz Rajkowski (University of Warsaw)
+#### Jonas Wallin (Lund University)
 
 Title
-: On the Maximum a Posteriori partition in nonparametric Bayesian mixture models
+: TBA
 
 Abstract
-: In nonparametric Bayesian mixture models we assume that the data is an iid
-  sample from an infinite mixture of component distributions; the mixture
-  weights and the parameters of the components are random. This approach can
-  be applied to cluster analysis; in this context it is convenient to think
-  that we have a prior distribution on the space of all possible partitions of
-  data (e.g. the Chineses Restaurant Process) and the likelihood is obtained
-  by marginalising the parameter out of component distributions. This can be
-  transformed into the posterior on the space of possible clusterings; as is
-  rather common in the Bayesian setting, this posterior is known up to
-  intractable normalising constant.  During the talk we are going to present
-  some properties of the MAP partition - the one that maximises the posterior
-  probability. Firstly we will describe the results of (1) that concern the
-  Chinese Restaurant prior on partitions and the component distributions being
-  multivariate Gaussian with unknown mean but known (and the same for all
-  components) covariance. Those findings concern the geometry of the MAP
-  partition (we prove that in this case the MAP clusters are linearly separated
-  from each other) and its asymptotic behaviour. Then we will show
-  generalisations of some of these results to general infinite mixture models,
-  when the component measures and the prior on their parameters belong to
-  conjugate exponential families. Finally we present a 'score function' for
-  clusterings, related to our analysis. This score function can be used to
-  choose among clustering propositions suggested by more computationally
-  efficient algorithms, like K-means.
+: TBA
 
 Related Papers
-: [Analysis of the Maximal a Posteriori Partition in the Gaussian Dirichlet Process Mixture Model](https://projecteuclid.org/journals/bayesian-analysis/volume-14/issue-2/Analysis-of-the-Maximal-a-Posteriori-Partition-in-the-Gaussian/10.1214/18-BA1114.full)
+: TBA
 
 ### May 28, [15:30 CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
 

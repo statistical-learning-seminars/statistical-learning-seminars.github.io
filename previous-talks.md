@@ -24,6 +24,17 @@ Recordings of previous talks are hosted at
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: left">May 7</td>
+      <td style="text-align: left">Lukasz Rajkowski</td>
+      <td style="text-align: left">On the Maximum a Posteriori partition in nonparametric Bayesian mixture models</td>
+      <td style="text-align: left">
+        <a href="https://youtu.be/czYn_pR4Qwk">presentation</a>,
+        <a href="/slides/210507-rajkowski.pdf">slides</a>,
+        <a href="https://projecteuclid.org/journals/bayesian-analysis/volume-14/issue-2/Analysis-of-the-Maximal-a-Posteriori-Partition-in-the-Gaussian/10.1214/18-BA1114.full">paper</a></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
       <td style="text-align: left">April 24</td>
       <td style="text-align: left">Pragya Sur</td>
       <td style="text-align: left">A precise high-dimensional asymptotic theory for AdaBoost</td>
@@ -31,7 +42,8 @@ Recordings of previous talks are hosted at
         <a href="https://youtu.be/cR3VLE6vljc">presentation</a>,
         <a href="https://arxiv.org/abs/2002.01586">paper</a></td>
     </tr>
-  </tbody><tbody>
+  </tbody>
+  <tbody>
     <tr>
       <td style="text-align: left">April 16</td>
       <td style="text-align: left">Daniek Yekutieli</td>
