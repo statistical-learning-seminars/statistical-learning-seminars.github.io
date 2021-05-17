@@ -62,7 +62,7 @@ show how the method works for both the Swedish and the UK death count. This is
 joint work with Adam Altmejd and Joacim Rocklöv.
 
 Related Papers
-: [Nowcasting Covid-19 statistics reported withdelay: a case-study of Sweden](https://arxiv.org/abs/2006.06840)
+: [Nowcasting Covid-19 statistics reported with delay: a case-study of Sweden](https://arxiv.org/abs/2006.06840)
 
 ### May 28, [15:30 CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
 
