@@ -58,7 +58,8 @@ methodology for predicting true daily quantities and their uncertainty,
 estimated using historical reporting delays. The methodology takes into account
 the observed distribution pattern of the lag. It is derived from the "removal
 method", a well-established estimation framework in the field of ecology. We
-show how the method works for both the Swedish and the UK death count.
+show how the method works for both the Swedish and the UK death count. This is
+joint work with Adam Altmejd and Joacim Rocklöv.
 
 Related Papers
 : [Nowcasting Covid-19 statistics reported withdelay: a case-study of Sweden](https://arxiv.org/abs/2006.06840)
