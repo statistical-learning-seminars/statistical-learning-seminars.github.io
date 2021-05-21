@@ -69,13 +69,25 @@ Related Papers
 #### Hanwen Huang (University of Georgia)
 
 Title
-: TBA
+: LASSO risk and phase transition under dependence
 
 Abstract
-: TBA
+: For general covariance matrix, we derive the asymptotic risk of LASSO in the
+limit of n and p going to infinity with fixed ratio n/p. A phase boundary is
+precisely established in the phase space. Above this boundary, LASSO perfectly
+recovers the signals with high probability. Below this boundary, LASSO fails to
+recover the signals with high probability. While the values of the non-zero
+elements of the signals do not have any effect on the phase transition curve,
+our analysis shows that the curve does depend on the signed pattern of the
+nonzero values of the signal for non-i.i.d. covariance matrix. Underlying our
+formalism is a recently developed efficient algorithm called approximate message
+passing (AMP) algorithm. We generalize the state evolution of AMP from i.i.d.
+case to general case. Extensive computational experiments confirm that our
+theoretical predictions are consistent with simulation results on moderate size
+system.
 
 Related Papers
-: TBA
+: [LASSO risk and phase transition under dependence](https://arxiv.org/abs/2103.16035)
 
 ## Organization
 
