@@ -39,31 +39,6 @@ To receive announcements for upcoming seminars, please join the group at
 
 ## Upcoming Talks
 
-### May 21, [15:30 CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
-
-#### Jonas Wallin (Lund University)
-
-Title
-: Nowcasting Covid-19 statistics reported with delay: a case-study of Sweden and
-UK
-
-Abstract
-: Monitoring the progress of the Coronavirus is crucial for timely
-implementation of intervention. The availability of unbiased timely statistics
-of trends in disease events are a key to effective responses. But due to
-reporting delays, the most recently reported numbers are frequently
-underestimating the total number of infections, hospitalizations and deaths
-creating an illusion of a downward trend. Here we describe a statistical
-methodology for predicting true daily quantities and their uncertainty,
-estimated using historical reporting delays. The methodology takes into account
-the observed distribution pattern of the lag. It is derived from the "removal
-method", a well-established estimation framework in the field of ecology. We
-show how the method works for both the Swedish and the UK death count. This is
-joint work with Adam Altmejd and Joacim Rocklöv.
-
-Related Papers
-: [Nowcasting Covid-19 statistics reported with delay: a case-study of Sweden](https://arxiv.org/abs/2006.06840)
-
 ### May 28, [15:30 CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
 
 #### Hanwen Huang (University of Georgia)

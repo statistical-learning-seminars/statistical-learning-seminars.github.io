@@ -24,6 +24,16 @@ Recordings of previous talks are hosted at
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: left">May 21</td>
+      <td style="text-align: left">Jonas Wallin</td>
+      <td style="text-align: left">Nowcasting Covid-19 statistics reported with delay: a case-study of Sweden and UK</td>
+      <td style="text-align: left">
+        <a href="https://youtu.be/RHLPu389PNY">presentation</a>,
+        <a href="/slides/210521-wallin.pdf">slides</a>,
+        <a href="https://arxiv.org/abs/2006.06840">paper</a></td>
+    </tr>
+  </tbody><tbody>
+    <tr>
       <td style="text-align: left">May 7</td>
       <td style="text-align: left">Lukasz Rajkowski</td>
       <td style="text-align: left">On the Maximum a Posteriori partition in nonparametric Bayesian mixture models</td>
