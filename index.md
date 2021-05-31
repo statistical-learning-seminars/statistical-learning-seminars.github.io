@@ -39,7 +39,9 @@ To receive announcements for upcoming seminars, please join the group at
 
 ## Upcoming Talks
 
-### May 28, [15:30 CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
+TBA
+
+<!-- ### May 28, [15:30 CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
 
 #### Hanwen Huang (University of Georgia)
 
@@ -62,7 +64,7 @@ theoretical predictions are consistent with simulation results on moderate size
 system.
 
 Related Papers
-: [LASSO risk and phase transition under dependence](https://arxiv.org/abs/2103.16035)
+: [LASSO risk and phase transition under dependence](https://arxiv.org/abs/2103.16035) -->
 
 ## Organization
 

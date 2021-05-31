@@ -25,6 +25,17 @@ Recordings of previous talks are hosted at
   <tbody>
     <tr>
       <td style="text-align: left">May 21</td>
+      <td style="text-align: left">Hanwen Huang</td>
+      <td style="text-align: left">LASSO risk and phase transition under dependence</td>
+      <td style="text-align: left">
+        <a href="https://youtu.be/UaigCx0dnng">presentation</a>,
+        <a href="https://arxiv.org/abs/2103.16035">paper</a>
+      </td>
+    </tr>
+  </tbody><tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">May 21</td>
       <td style="text-align: left">Jonas Wallin</td>
       <td style="text-align: left">Nowcasting Covid-19 statistics reported with delay: a case-study of Sweden and UK</td>
       <td style="text-align: left">
