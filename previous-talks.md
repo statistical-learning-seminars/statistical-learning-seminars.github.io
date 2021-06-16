@@ -32,7 +32,7 @@ Recordings of previous talks are hosted at
         <a href="https://arxiv.org/abs/2103.16035">paper</a>
       </td>
     </tr>
-  </tbody><tbody>
+  </tbody>
   <tbody>
     <tr>
       <td style="text-align: left">May 21</td>
