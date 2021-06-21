@@ -29,6 +29,7 @@ Recordings of previous talks are hosted at
       <td style="text-align: left">Geometry of Model Pattern Recovery by Penalized and Thresholded Estimators</td>
       <td style="text-align: left">
         <a href="https://youtu.be/uJ1FZMF1uoY">presentation</a>,
+        <a href="/slides/210618-tardivel.pdf">slides</a>,
         <a href="https://youtu.be/UaigCx0dnng">paper</a>
       </td>
     </tr>
