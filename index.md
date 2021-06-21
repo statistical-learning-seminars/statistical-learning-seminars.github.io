@@ -39,43 +39,7 @@ To receive announcements for upcoming seminars, please join the group at
 
 ## Upcoming Talks
 
-### June 18, [15:30 CET](https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&)
-
-#### Patrick Tardivel (University of Burgundy)
-
-Title
-: Geometry of Model Pattern Recovery by Penalized and Thresholded Estimators
-
-Abstract
-: LASSO, SLOPE, OSCAR, Fused LASSO, Clustered LASSO, generalized
-  LASSO... are popular penalized estimators for which the penalty term is a
-  polyhedral gauge. This presentation focuses on the model pattern recovery of
-  $\beta$; namely recovering the subdifferential of a polyhedral gauge at
-  $\beta$, where $\beta$ is an unknown parameter of regression coefficients. For
-  LASSO, when the penalty term is the $\ell_1$ norm, the model pattern of $\beta$
-  only depends on the sign of $\beta$ and sign recovery via LASSO estimator is
-  actually a well known topic in the literature. Furthermore, this presentation
-  shows that the notion of model pattern recovery is relevant for many examples
-  of polyhedral gauge penalty. Specifically, we introduce the "path condition":
-  a necessary condition for model pattern recovery, via a penalized least
-  squares estimator, with a probability larger than $1/2$. One may relax this
-  later condition using "thresholded" penalized least squares estimators; a
-  new class of estimators generalizing thresholded LASSO. Indeed, we show that
-  the "accessibility condition", a condition weaker than the "path
-  condition", is asymptotically sufficient for model pattern recovery. It is
-  well known that penalized estimators can be not uniquely defined and, actually,
-  the theory of model pattern recovery is closely related to the important issue
-  of uniqueness. In this presentation we also introduce a necessary and
-  sufficient condition for the uniform uniqueness of penalized least squares
-  estimators. 
-
-Paper
-: [The Geometry of Model Recovery by Penalized and Thresholded Estimators][1]
-
-
-## Upcoming Talks
-
-### June 18, [15:30 CET][tz]
+### July 2, [15:30 CET][tz]
 
 #### Zhiqi Bu (University of Pennsylvania)
 
@@ -106,10 +70,9 @@ very recent result from approximate message passing theory.
     
 Paper
 : [Characterizing the SLOPE Trade-off: A Variational 
-   Perspective and the Donoho--Tanner Limit][2]
+   Perspective and the Donoho--Tanner Limit][bu]
 
-[1]: https://hal.archives-ouvertes.fr/hal-03262087
-[2]: https://arxiv.org/abs/2105.13302
+[bu]: https://arxiv.org/abs/2105.13302
 [tz]: https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&
 
 ## Organization

@@ -24,7 +24,17 @@ Recordings of previous talks are hosted at
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left">May 21</td>
+      <td style="text-align: left">June 18</td>
+      <td style="text-align: left">Patrick Tardivel</td>
+      <td style="text-align: left">Geometry of Model Pattern Recovery by Penalized and Thresholded Estimators</td>
+      <td style="text-align: left">
+        <a href="https://youtu.be/uJ1FZMF1uoY">presentation</a>,
+        <a href="https://youtu.be/UaigCx0dnng">paper</a>
+      </td>
+    </tr>
+  </tbody><tbody>
+    <tr>
+      <td style="text-align: left">May 28</td>
       <td style="text-align: left">Hanwen Huang</td>
       <td style="text-align: left">LASSO risk and phase transition under dependence</td>
       <td style="text-align: left">
