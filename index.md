@@ -39,7 +39,7 @@ To receive announcements for upcoming seminars, please join the group at
 
 ## Upcoming Talks
 
-### July 2, [15:30 CET][tz]
+### July 9, [15:30 CET][tz]
 
 #### Zhiqi Bu (University of Pennsylvania)
 
