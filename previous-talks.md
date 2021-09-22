@@ -24,6 +24,16 @@ Recordings of previous talks are hosted at
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: left">July 9</td>
+      <td style="text-align: left">Zhiqi Bu</td>
+      <td style="text-align: left">Characterizing the SLOPE Trade-Off: A Variational perspective and the Donoho--Tanner Limit</td>
+      <td style="text-align: left">
+        <a href="https://arxiv.org/abs/2105.13302">paper</a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
       <td style="text-align: left">June 18</td>
       <td style="text-align: left">Patrick Tardivel</td>
       <td style="text-align: left">Geometry of Model Pattern Recovery by Penalized and Thresholded Estimators</td>
@@ -33,7 +43,8 @@ Recordings of previous talks are hosted at
         <a href="https://youtu.be/UaigCx0dnng">paper</a>
       </td>
     </tr>
-  </tbody><tbody>
+  </tbody>
+  <tbody>
     <tr>
       <td style="text-align: left">May 28</td>
       <td style="text-align: left">Hanwen Huang</td>
