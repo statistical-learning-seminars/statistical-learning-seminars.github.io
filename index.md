@@ -39,8 +39,6 @@ To receive announcements for upcoming seminars, please join the group at
 
 ## Upcoming Talks
 
-TBA
-
 ### October 15, [15:30 CET][tz]
 
 #### Olof Zetterqvist (University of Gothenburg/Chalmers)
