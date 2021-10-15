@@ -24,6 +24,17 @@ Recordings of previous talks are hosted at
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: left">Oct 15</td>
+      <td style="text-align: left">Olof Zetterqvist</td>
+      <td style="text-align: left">Entropy Weighted Regularisation: A General Way to Debias Regularisation Penalties</td>
+      <td style="text-align: left">
+        <a href="https://youtu.be/6n9cAn94kp0">presentation</a>,
+        <a href="/slides/211015-zetterqvist.pdf">slides</a>,
+        <a href="https://research.chalmers.se/en/publication/525225">thesis</a>
+      </td>
+    </tr>
+  </tbody><tbody>
+    <tr>
       <td style="text-align: left">July 9</td>
       <td style="text-align: left">Zhiqi Bu</td>
       <td style="text-align: left">Characterizing the SLOPE Trade-Off: A Variational perspective and the Donoho--Tanner Limit</td>

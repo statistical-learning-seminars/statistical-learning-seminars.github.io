@@ -39,27 +39,17 @@ To receive announcements for upcoming seminars, please join the group at
 
 ## Upcoming Talks
 
-### October 15, [15:30 CET][tz]
+TBA
 
-#### Olof Zetterqvist (University of Gothenburg/Chalmers)
+<!-- ### Date [15:30 CET][tz] -->
 
-Title
-: Entropy Weighted Regularisation: A General Way to Debias Regularisation
-Penalties
+<!-- #### John Doe (Affiliation) -->
 
-Abstract
-: Lasso and ridge regression are well established and successful models for
-variance reduction and, for the lasso, variable selection. However, they come
-with a disadvantage of an increased bias in the estimator. In this seminar, I
-will talk about our general method that learns individual weights for each term
-in the regularisation penalty (e.g. lasso or ridge) with the goal to reduce the
-bias. To bound the amount of freedom for the model to choose the weights, a new
-regularisation term, that imposes a cost for choosing small weights, is
-introduced. If the form of this term is chosen wisely, the apparent doubling of
-the number of parameters vanishes, by means of solving for the weights in terms
-of the parameter estimates. We show that these estimators potentially keep the
-original estimators' fundamental properties and experimentally verify that this
-can indeed reduce bias.
+<!-- Title -->
+<!-- : TBA -->
+
+<!-- Abstract -->
+<!-- : TBA -->
 
 [tz]: https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&
 
