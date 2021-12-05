@@ -37,9 +37,10 @@ To receive announcements for upcoming seminars, please join the group at
 
 [Link to calendar event](https://lu-se.zoom.us/meeting/u5Etce6rrTIrHdGmDxIUKT33_HsILcrt6Tui/ics?icsToken=98tyKu-trj0tGdecsR6CR_MMAo_oKOnztlhcgqd6kTv9KhV4VlClCcpRG558AsyG)
 
-## Upcoming Talks
+## Upcoming Mini-Conference: Recent Advances on SLOPE
 
-TBA
+We are arranging a mini-conference on recent advances on SLOPE. Please
+go to [SLOPE Mini-Conference](/slope-conference/) to read more!
 
 <!-- ### Date [15:30 CET][tz] -->
 
