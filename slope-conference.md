@@ -156,7 +156,6 @@ TBA
 #### Links
 
 - [Personal Website](http://www.math.uni.wroc.pl/~mbogdan/)
-- [Google Scholar](https://scholar.google.com/citations?user=9Ajsxb8AAAAJ)
 
 ### Clément Elvira and Cédric Herzet
 
@@ -179,9 +178,4 @@ TBA
 
 - [Personal Website (Clément)](https://c-elvira.github.io/), [Personal Website
   (Cédric)](http://people.rennes.inria.fr/Cedric.Herzet/Cedric.Herzet/Main.html)
-- [Google Scholar
-  (Clément)](https://scholar.google.com/citations?user=2LSEQYcAAAAJ&hl=fr)
-  [Google Scholar
-  (Cédric)](https://scholar.google.com/citations?user=wO7HamwAAAAJ&hl=en)
-
 
