@@ -98,8 +98,10 @@ combinatorial object.
 
 #### Links
 
+- [Related Article: Degrees of freedom in submodular regularization: A
+  computational perspective of Stein’s unbiased risk
+  estimate](https://doi.org/10.1016/j.jmva.2019.104546)
 - [Personal Website](https://sites.google.com/site/ktrmnm1991/home)
-- [Google Scholar](https://scholar.google.com/citations?user=3QYOhDoAAAAJ&hl=en)
 
 ### Ziyan Luo
 
@@ -133,7 +135,8 @@ of multipliers (ADMM).
 
 #### Links
 
-- [Research Gate](https://www.researchgate.net/profile/Ziyan-Luo)
+- [Related Article: Solving the OSCAR and SLOPE Models Using a Semismooth
+  Newton-Based Augmented Lagrangian Method](https://arxiv.org/abs/1803.10740)
 
 ### Małgorzata Bogdan
 
