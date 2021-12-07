@@ -147,6 +147,7 @@ University, Poland and a guest professor at the Department of Statistics,
 Lund University.
 
 #### Title
+
 TBA
 
 #### Abstract
@@ -157,25 +158,31 @@ TBA
 
 - [Personal Website](http://www.math.uni.wroc.pl/~mbogdan/)
 
-### Clément Elvira and Cédric Herzet
+### Clément Elvira
 
-<img src="/slope-conference/elvira.jpg" width="105px">
-<img src="/slope-conference/herzet.png" width="100px">
+<img src="/slope-conference/elvira.jpg" width="125px">
 
 Clément Elvira is a _Maître de Conférences_ at CentraleSupélec in Rennes,
-France, working with the SSEE team of the IETR laboratory. Cédric Herzet
-is a researcher at INRIA.
+France, working with the SSEE team of the IETR laboratory. His talk
+represents join work with Cédric Herzet.
 
 #### Title
 
-TBA
+Safe Rules for the Identification of Zeros in the Solutions of the SLOPE Problem
 
 #### Abstract
 
-TBA
+In this talk we present a methodology to accelerate the resolution of the
+so-called “Sorted L-One Penalized Estimation” (SLOPE) problem. Our method is
+based on the concept of “safe screening” and aims at identifying the zeros in
+the solution of SLOPE. More specifically, we introduce a new family of safe
+screening rules and derive a polynomial-time procedure to verify if one of these
+tests is passed. We illustrate on several numerical benchmarks that the proposed
+method can lead to significant computational savings.
 
 #### Links
 
-- [Personal Website (Clément)](https://c-elvira.github.io/), [Personal Website
-  (Cédric)](http://people.rennes.inria.fr/Cedric.Herzet/Cedric.Herzet/Main.html)
+- [Personal Website](https://c-elvira.github.io/)
+- [Related Article: Safe Rules for the Identification of Zeros in the Solutions
+  of the SLOPE Problem](https://arxiv.org/abs/2110.11784)
 
