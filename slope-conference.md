@@ -60,8 +60,10 @@ placed in a waiting room; please wait for the host to let you in to the meeting.
     <tr>
       <td style="text-align: left"><a
       href="https://dateful.com/convert/stockholm-sweden?t=1030">10:30 CET</a></td>
-      <td style="text-align: left">Clément Elvira and Cédric Herzet</td>
-      <td style="text-align: left">TBA</td>
+      <td style="text-align: left">Clément Elvira</td>
+      <td style="text-align: left">
+        Safe Rules for the Identification of Zeros in the Solutions of the SLOPE Problem
+      </td>
     </tr>
   </tbody>
 </table>
