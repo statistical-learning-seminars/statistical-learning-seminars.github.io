@@ -18,7 +18,7 @@ We will use [zoom](https://zoom.us/) for the conference and the link for the
 conference is <https://lu-se.zoom.us/j/65067339175>. Upon joining, you will be
 placed in a waiting room; please wait for the host to let you in to the meeting.
 
-## Schedule (Tentative)
+## Schedule
 
 <table class = "schedule">
   <thead>
