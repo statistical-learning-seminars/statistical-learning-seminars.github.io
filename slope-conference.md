@@ -53,7 +53,7 @@ placed in a waiting room; please wait for the host to let you in to the meeting.
       <td style="text-align: left"><a
       href="https://dateful.com/convert/stockholm-sweden?t=0945">09:45 CET</a></td>
       <td style="text-align: left">Małgorzata Bogdan</td>
-      <td style="text-align: left">TBA</td>
+      <td style="text-align: left">On the statistical properties of SLOPE and adaptive SLOPE</td>
     </tr>
   </tbody>
   <tbody>
@@ -150,11 +150,15 @@ Lund University.
 
 #### Title
 
-TBA
+On the statistical properties of SLOPE and adaptive SLOPE
 
 #### Abstract
 
-TBA
+In this talk we will present some theoretical and empirical results on the
+statistical properties of SLOPE and adaptive SLOPE, including the False
+Discovery Control and averaging of the similar regression coefficients. If time
+permits, we will also discuss the application of SLOPE in the context of
+portfolio optimization.
 
 #### Links
 
