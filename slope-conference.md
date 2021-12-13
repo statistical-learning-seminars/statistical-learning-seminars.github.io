@@ -26,6 +26,7 @@ placed in a waiting room; please wait for the host to let you in to the meeting.
       <th style="text-align: left">Start Time</th>
       <th style="text-align: left">Speaker</th>
       <th style="text-align: left">Title</th>
+      <th style="text-align: left">Resources</th>
     </tr>
   </thead>
   <tbody>
@@ -35,6 +36,9 @@ placed in a waiting room; please wait for the host to let you in to the meeting.
       <td style="text-align: left">Kentaro Minami</td>
       <td style="text-align: left">
         Degrees of freedom in submodular regularization: A computational perspective of Stein’s unbiased risk estimate
+      </td>
+      <td style="text-align: left">
+        <a href="https://youtu.be/IZ94TiMnCAM">video</a>
       </td>
     </tr>
   </tbody>
@@ -46,6 +50,9 @@ placed in a waiting room; please wait for the host to let you in to the meeting.
       <td style="text-align: left">
         Solving the OSCAR and SLOPE Models Using a Semismooth Newton-Based Augmented Lagrangian Method
       </td>
+      <td style="text-align: left">
+        <a href="https://youtu.be/chEdRUx_7vI">video</a>
+      </td>
     </tr>
   </tbody>
   <tbody>
@@ -54,6 +61,9 @@ placed in a waiting room; please wait for the host to let you in to the meeting.
       href="https://dateful.com/convert/stockholm-sweden?t=0945">09:45 CET</a></td>
       <td style="text-align: left">Małgorzata Bogdan</td>
       <td style="text-align: left">On the statistical properties of SLOPE and adaptive SLOPE</td>
+      <td style="text-align: left">
+        <a href="https://youtu.be/ZPjwOVpneF0">video</a>
+      </td>
     </tr>
   </tbody>
   <tbody>
@@ -63,6 +73,9 @@ placed in a waiting room; please wait for the host to let you in to the meeting.
       <td style="text-align: left">Clément Elvira</td>
       <td style="text-align: left">
         Safe Rules for the Identification of Zeros in the Solutions of the SLOPE Problem
+      </td>
+      <td style="text-align: left">
+        <a href="https://youtu.be/KVpQf24VWIc">video</a>
       </td>
     </tr>
   </tbody>
@@ -191,4 +204,3 @@ method can lead to significant computational savings.
 - [Personal Website](https://c-elvira.github.io/)
 - [Related Article: Safe Rules for the Identification of Zeros in the Solutions
   of the SLOPE Problem](https://arxiv.org/abs/2110.11784)
-
