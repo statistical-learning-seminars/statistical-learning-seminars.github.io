@@ -10,20 +10,17 @@ title: 'Mini-Conference: Recent Advances on SLOPE'
     img {margin: 1.5ex; float: right; align: right; padding-top: 2.5ex;}
 </style>
 
-On **December 13, 08:00 to 12:00 CET**, we will be running a mini-conference on
+We ran a mini-conference on 
 recent advances in Sorted L-One Penalized Estimation (SLOPE), featuring speakers
 from across the world.
 
-We will use [zoom](https://zoom.us/) for the conference and the link for the
-conference is <https://lu-se.zoom.us/j/65067339175>. Upon joining, you will be
-placed in a waiting room; please wait for the host to let you in to the meeting.
+Here are some resources from that conference; enjoy!
 
-## Schedule
+## Table of Talks
 
 <table class = "schedule">
   <thead>
     <tr>
-      <th style="text-align: left">Start Time</th>
       <th style="text-align: left">Speaker</th>
       <th style="text-align: left">Title</th>
       <th style="text-align: left">Resources</th>
@@ -31,8 +28,6 @@ placed in a waiting room; please wait for the host to let you in to the meeting.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left"><a
-      href="https://dateful.com/convert/stockholm-sweden?t=0800">08:00 CET</a></td>
       <td style="text-align: left">Kentaro Minami</td>
       <td style="text-align: left">
         Degrees of freedom in submodular regularization: A computational perspective of Stein’s unbiased risk estimate
@@ -44,8 +39,6 @@ placed in a waiting room; please wait for the host to let you in to the meeting.
   </tbody>
   <tbody>
     <tr>
-      <td style="text-align: left"><a
-      href="https://dateful.com/convert/stockholm-sweden?t=0845">08:45 CET</a></td>
       <td style="text-align: left">Ziyan Luo</td>
       <td style="text-align: left">
         Solving the OSCAR and SLOPE Models Using a Semismooth Newton-Based Augmented Lagrangian Method
@@ -57,8 +50,6 @@ placed in a waiting room; please wait for the host to let you in to the meeting.
   </tbody>
   <tbody>
     <tr>
-      <td style="text-align: left"><a
-      href="https://dateful.com/convert/stockholm-sweden?t=0945">09:45 CET</a></td>
       <td style="text-align: left">Małgorzata Bogdan</td>
       <td style="text-align: left">On the statistical properties of SLOPE and adaptive SLOPE</td>
       <td style="text-align: left">
@@ -68,8 +59,6 @@ placed in a waiting room; please wait for the host to let you in to the meeting.
   </tbody>
   <tbody>
     <tr>
-      <td style="text-align: left"><a
-      href="https://dateful.com/convert/stockholm-sweden?t=1030">10:30 CET</a></td>
       <td style="text-align: left">Clément Elvira</td>
       <td style="text-align: left">
         Safe Rules for the Identification of Zeros in the Solutions of the SLOPE Problem
