@@ -5,6 +5,11 @@ feature_image:
 feature_text:
 ---
 
+<style>
+    img {margin: 1.5ex; float: right; align: right; padding-top: 2.5ex;}
+    h4 {margin-bottom: 0.5ex; padding-bottom: 1.3ex;}
+</style>
+
 The effects of CoViD-19 pervade through research communities across the
 globe, causing canceled conferences, postponed research visits, and suspended
 projects. Like [many others](/links), we have sought other opportunities for
@@ -37,20 +42,37 @@ To receive announcements for upcoming seminars, please join the group at
 
 [Link to calendar event](https://lu-se.zoom.us/meeting/u5Etce6rrTIrHdGmDxIUKT33_HsILcrt6Tui/ics?icsToken=98tyKu-trj0tGdecsR6CR_MMAo_oKOnztlhcgqd6kTv9KhV4VlClCcpRG558AsyG)
 
-## Upcoming Mini-Conference: Recent Advances on SLOPE
+## Upcoming Talks
 
-We are arranging a mini-conference on recent advances on SLOPE. Please
-go to [SLOPE Mini-Conference](/slope-conference/) to read more!
+### Friday, March 4 [15:30 CET][tz]
 
-<!-- ### Date [15:30 CET][tz] -->
+#### Nghia Tran (Oakland University)
 
-<!-- #### John Doe (Affiliation) -->
+Title
+: Sharp, strong, and unique minimizers for low complexity robust recovery
 
-<!-- Title -->
-<!-- : TBA -->
+Abstract
+: In this talk, we show the important roles of sharp minima and
+strong minima for robust recovery. We also obtain several characterizations
+of sharp minima for convex regularized optimization problems. Our
+characterizations are quantitative and verifiable especially for the case
+of decomposable norm regularized problems including sparsity,
+group-sparsity, and low-rank convex problems. For group-sparsity
+optimization problems, we show that a unique solution is a strong solution
+and obtain quantitative characterizations for solution uniqueness.
 
-<!-- Abstract -->
-<!-- : TBA -->
+Related Work
+: [Sharp, strong and unique minimizers
+for low complexity robust recovery](https://arxiv.org/abs/2111.05444)
+
+<img src="/assets/profilepic-nghia-tran.png" align="right" width="200px">
+
+About
+: Nghia Tran is an associate professor at the Department of Mathematics
+and Statistics at Oakland University, Rochester, Michigan, USA. His primary
+research focus has been non-smooth optimization, variational analysis, and
+applications thereof.
+
 
 [tz]: https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&
 
