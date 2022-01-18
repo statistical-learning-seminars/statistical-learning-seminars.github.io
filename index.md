@@ -44,6 +44,27 @@ To receive announcements for upcoming seminars, please join the group at
 
 ## Upcoming Talks
 
+### Friday, February 25 [15:30 CET][tz]
+
+#### Wojciech Rejchel (Nicolaus Copernicus University, Torun)
+
+Title
+: Group Lasso merger for sparse prediction with high-dimensional categorical
+data
+
+Abstract
+: TBA
+
+Related Work
+: [Group Lasso merger for sparse prediction with high-dimensional categorical
+data](https://arxiv.org/abs/2112.11114)
+
+<!-- <img src="/assets/profilepic-nghia-tran.png" align="right" width="200px"> -->
+
+About
+: Wojciech Rejchel is an assistant professor at the Department of
+Mathematics and Computer Science at Copernicus University in Torun, Germany.
+
 ### Friday, March 4 [15:30 CET][tz]
 
 #### Nghia Tran (Oakland University)
