@@ -88,7 +88,7 @@ data](https://arxiv.org/abs/2112.11114)
 
 About
 : Wojciech Rejchel is an assistant professor at the Department of
-Mathematics and Computer Science at Copernicus University in Torun, Germany.
+Mathematics and Computer Science at Copernicus University in Torun, Poland.
 
 ### Friday, March 4 [15:30 CET][tz]
 
