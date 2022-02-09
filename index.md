@@ -44,7 +44,7 @@ To receive announcements for upcoming seminars, please join the group at
 
 ## Upcoming Talks
 
-### Friday, February 11 [15:30 CET][tz]
+### Friday, February 11 [15:00 CET](tz_mod)
 
 #### Magali Champion (IUT de Paris – Rives de Seine, University of Paris)
 
@@ -53,7 +53,17 @@ Title
 l1-regularization
 
 Abstract
-: TBA
+: Detecting cluster structure is a fundamental task to understand and visualize
+functional characteristics of a graph. Among the different clustering methods
+available, spectral clustering is one of the most widely used due to its speed
+and simplicity, while still being sensitive to high perturbations imposed on the
+graph. In this work, we present a variant of the spectral clustering, called
+l_1-spectral clustering, based on Lasso regularization and adapted to perturbed
+graph models. By promoting sparse eigenbases solutions of specific
+l_1-minimization problems, it detects the hidden natural cluster structure of
+the graph. The effectiveness and robustness to noise perturbations is confirmed
+through a collection of simulated and real biological data.
+Joint work with C. Champion, M. Blazère, R. Burcelin and JM. Loubes.
 
 <img src="/assets/pictures/megali-champion.jpg" align="right" width="200px">
 
@@ -65,7 +75,7 @@ About
 : Magali Champion is an assistant professor in statistics at the
 department STID of IUT de Paris – Rives de Seine at the University of Paris.
 She is also part of the MAP5 lab and currently a visiting reacher
-at the Seminar for Statistics of the ETH Zürich. Her interests are 
+at the Seminar for Statistics of the ETH Zürich. Her interests are
 primarily in the fields on statistical learning
 and computational biology.
 
@@ -74,11 +84,22 @@ and computational biology.
 #### Wojciech Rejchel (Nicolaus Copernicus University, Torun)
 
 Title
-: Group Lasso merger for sparse prediction with high-dimensional categorical
-data
+: Selection consistency for high-dimensional categorical data
 
 Abstract
-: TBA
+: Selection with categorical data is challenging even for a moderate number of
+variables, because one parameter is roughly needed to encode one category or
+level. The group lasso is a well known and efficient algorithm for selection
+continuous or categorical variables, but all estimates related to a selected
+factor usually differ, so a fitted model may not be sparse. To make a group
+lasso solution sparse, we pro- pose to merge levels of the selected factor, if a
+difference between its corresponding estimates is less than some predetermined
+threshold. We prove that under weak conditions our algorithm recovers the true,
+sparse linear or logistic model even for the high-dimensional scenario, that is
+when a number of parameters is greater than a sample size. To our knowledge,
+selection consistency has been proven many times for different algorithms
+fitting sparse models with categorical variables, but our result is the first
+for the high-dimensional scenario.
 
 Related Work
 : [Group Lasso merger for sparse prediction with high-dimensional categorical
@@ -119,8 +140,7 @@ and Statistics at Oakland University, Rochester, Michigan, USA. His primary
 research focus has been non-smooth optimization, variational analysis, and
 applications thereof.
 
-
-[tz]: https://www.thetimezoneconverter.com/?t=15%3A30%20pm&tz=Stockholm&
+[tz]: https://dateful.com/convert/stockholm-sweden?t=3pm
 
 ## Organization
 
