@@ -44,7 +44,7 @@ To receive announcements for upcoming seminars, please join the group at
 
 ## Upcoming Talks
 
-### Friday, February 11 [15:00 CET][tz_mod]
+### Friday, February 11 [15:00 CET](https://dateful.com/convert/stockholm-sweden?t=330pm)
 
 #### Magali Champion (IUT de Paris – Rives de Seine, University of Paris)
 
@@ -141,7 +141,6 @@ research focus has been non-smooth optimization, variational analysis, and
 applications thereof.
 
 [tz]: https://dateful.com/convert/stockholm-sweden?t=3pm
-[tz]: https://dateful.com/convert/stockholm-sweden?t=330pm
 
 ## Organization
 
