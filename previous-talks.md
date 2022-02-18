@@ -11,6 +11,32 @@ title: Previous Talks
 Recordings of previous talks are hosted at
 <https://www.youtube.com/channel/UCfRCi0V-3mvax-nWSadgMBQ>.
 
+## 2022
+
+<table class="talks">
+  <thead>
+    <tr>
+      <th style="text-align: left">Date</th>
+      <th style="text-align: left">Speaker</th>
+      <th style="text-align: left">Title</th>
+      <th style="text-align: left">Resources</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Feb 11</td>
+      <td style="text-align: left">Magali Champion</td>
+      <td style="text-align: left">l1-spectral Clustering Algorithm</td>
+      <td style="text-align: left">
+        <a href="https://youtu.be/vRRsKUSybCE">presentation</a>,
+        <a href="https://hal.archives-ouvertes.fr/hal-03095805/document">report</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</br>
+
 ## 2021
 
 <table class="talks">
@@ -33,7 +59,8 @@ Recordings of previous talks are hosted at
         <a href="https://research.chalmers.se/en/publication/525225">thesis</a>
       </td>
     </tr>
-  </tbody><tbody>
+  </tbody>
+  <tbody>
     <tr>
       <td style="text-align: left">July 9</td>
       <td style="text-align: left">Zhiqi Bu</td>

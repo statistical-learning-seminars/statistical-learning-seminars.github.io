@@ -44,47 +44,12 @@ To receive announcements for upcoming seminars, please join the group at
 
 ## Upcoming Talks
 
-### Friday, February 11 [15:00 CET](https://dateful.com/convert/stockholm-sweden?t=330pm)
-
-#### Magali Champion (IUT de Paris – Rives de Seine, University of Paris)
-
-Title
-: l1-spectral clustering algorithm: a spectral clustering method using
-l1-regularization
-
-Abstract
-: Detecting cluster structure is a fundamental task to understand and visualize
-functional characteristics of a graph. Among the different clustering methods
-available, spectral clustering is one of the most widely used due to its speed
-and simplicity, while still being sensitive to high perturbations imposed on the
-graph. In this work, we present a variant of the spectral clustering, called
-l_1-spectral clustering, based on Lasso regularization and adapted to perturbed
-graph models. By promoting sparse eigenbases solutions of specific
-l_1-minimization problems, it detects the hidden natural cluster structure of
-the graph. The effectiveness and robustness to noise perturbations is confirmed
-through a collection of simulated and real biological data.
-Joint work with C. Champion, M. Blazère, R. Burcelin and JM. Loubes.
-
-<img src="/assets/pictures/megali-champion.jpg" align="right" width="200px">
-
-Related Work
-: [l1-spectral clustering algorithm: a spectral clustering method using
-l1-regularization](https://hal.archives-ouvertes.fr/hal-03095805/document)
-
-About
-: Magali Champion is an assistant professor in statistics at the
-department STID of IUT de Paris – Rives de Seine at the University of Paris.
-She is also part of the MAP5 lab and currently a visiting reacher
-at the Seminar for Statistics of the ETH Zürich. Her interests are
-primarily in the fields on statistical learning
-and computational biology.
-
 ### Friday, February 25 [15:30 CET][tz]
 
 #### Wojciech Rejchel (Nicolaus Copernicus University, Torun)
 
 Title
-: Selection consistency for high-dimensional categorical data
+: Selection Consistency for High-Dimensional Categorical Data
 
 Abstract
 : Selection with categorical data is challenging even for a moderate number of
@@ -104,8 +69,6 @@ for the high-dimensional scenario.
 Related Work
 : [Group Lasso merger for sparse prediction with high-dimensional categorical
 data](https://arxiv.org/abs/2112.11114)
-
-<!-- <img src="/assets/profilepic-nghia-tran.png" align="right" width="200px"> -->
 
 About
 : Wojciech Rejchel is an assistant professor at the Department of
