@@ -24,6 +24,14 @@ Recordings of previous talks are hosted at
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: left">Feb 25</td>
+      <td style="text-align: left">Wojciech Rejchel</td>
+      <td style="text-align: left">Selection Consistency for High-Dimensional Categorical Data</td>
+      <td style="text-align: left">
+        <a href="https://arxiv.org/abs/2112.11114">paper</a>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align: left">Feb 11</td>
       <td style="text-align: left">Magali Champion</td>
       <td style="text-align: left">l1-spectral Clustering Algorithm</td>
@@ -35,7 +43,7 @@ Recordings of previous talks are hosted at
   </tbody>
 </table>
 
-</br>
+<br>
 
 ## 2021
 
@@ -47,8 +55,6 @@ Recordings of previous talks are hosted at
       <th style="text-align: left">Title</th>
       <th style="text-align: left">Resources</th>
     </tr>
-  </thead>
-  <tbody>
     <tr>
       <td style="text-align: left">Oct 15</td>
       <td style="text-align: left">Olof Zetterqvist</td>
@@ -59,8 +65,6 @@ Recordings of previous talks are hosted at
         <a href="https://research.chalmers.se/en/publication/525225">thesis</a>
       </td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td style="text-align: left">July 9</td>
       <td style="text-align: left">Zhiqi Bu</td>
@@ -69,8 +73,6 @@ Recordings of previous talks are hosted at
         <a href="https://arxiv.org/abs/2105.13302">paper</a>
       </td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td style="text-align: left">June 18</td>
       <td style="text-align: left">Patrick Tardivel</td>
@@ -81,8 +83,6 @@ Recordings of previous talks are hosted at
         <a href="https://youtu.be/UaigCx0dnng">paper</a>
       </td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td style="text-align: left">May 28</td>
       <td style="text-align: left">Hanwen Huang</td>
@@ -92,8 +92,6 @@ Recordings of previous talks are hosted at
         <a href="https://arxiv.org/abs/2103.16035">paper</a>
       </td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td style="text-align: left">May 21</td>
       <td style="text-align: left">Jonas Wallin</td>
@@ -103,7 +101,6 @@ Recordings of previous talks are hosted at
         <a href="/slides/210521-wallin.pdf">slides</a>,
         <a href="https://arxiv.org/abs/2006.06840">paper</a></td>
     </tr>
-  </tbody><tbody>
     <tr>
       <td style="text-align: left">May 7</td>
       <td style="text-align: left">Lukasz Rajkowski</td>
@@ -113,8 +110,6 @@ Recordings of previous talks are hosted at
         <a href="/slides/210507-rajkowski.pdf">slides</a>,
         <a href="https://projecteuclid.org/journals/bayesian-analysis/volume-14/issue-2/Analysis-of-the-Maximal-a-Posteriori-Partition-in-the-Gaussian/10.1214/18-BA1114.full">paper</a></td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td style="text-align: left">April 24</td>
       <td style="text-align: left">Pragya Sur</td>
@@ -123,8 +118,6 @@ Recordings of previous talks are hosted at
         <a href="https://youtu.be/cR3VLE6vljc">presentation</a>,
         <a href="https://arxiv.org/abs/2002.01586">paper</a></td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td style="text-align: left">April 16</td>
       <td style="text-align: left">Daniek Yekutieli</td>
@@ -134,24 +127,18 @@ Recordings of previous talks are hosted at
         <a href="/slides/210416-yekutieli.pdf">slides</a>,
         <a href="https://arxiv.org/abs/1908.08444">paper</a></td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td style="text-align: left">April 9</td>
       <td style="text-align: left">Laura Freijeiro Gonzalez</td>
       <td style="text-align: left">Analysis of LASSO and its derivatives for variable selection under dependence among covariates</td>
       <td style="text-align: left"><a href="https://youtu.be/QZYGnvMGkp0">presentation</a>, <a href="https://arxiv.org/pdf/2012.11470.pdf">paper</a></td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td style="text-align: left">Feb 12</td>
       <td style="text-align: left">Zakhar Kabluchko</td>
       <td style="text-align: left">Conic intrinsic volumes and phase transitions for high-dimensional polytopes</td>
       <td style="text-align: left"><a href="https://youtu.be/PZgX_mB6eks">presentation</a>, <a href="https://arxiv.org/abs/1303.6672">paper</a></td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td style="text-align: left">Jan 29</td>
       <td style="text-align: left">Michael Weylandt</td>

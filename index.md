@@ -44,36 +44,6 @@ To receive announcements for upcoming seminars, please join the group at
 
 ## Upcoming Talks
 
-### Friday, February 25 [15:30 CET][tz]
-
-#### Wojciech Rejchel (Nicolaus Copernicus University, Torun)
-
-Title
-: Selection Consistency for High-Dimensional Categorical Data
-
-Abstract
-: Selection with categorical data is challenging even for a moderate number of
-variables, because one parameter is roughly needed to encode one category or
-level. The group lasso is a well known and efficient algorithm for selection
-continuous or categorical variables, but all estimates related to a selected
-factor usually differ, so a fitted model may not be sparse. To make a group
-lasso solution sparse, we pro- pose to merge levels of the selected factor, if a
-difference between its corresponding estimates is less than some predetermined
-threshold. We prove that under weak conditions our algorithm recovers the true,
-sparse linear or logistic model even for the high-dimensional scenario, that is
-when a number of parameters is greater than a sample size. To our knowledge,
-selection consistency has been proven many times for different algorithms
-fitting sparse models with categorical variables, but our result is the first
-for the high-dimensional scenario.
-
-Related Work
-: [Group Lasso merger for sparse prediction with high-dimensional categorical
-data](https://arxiv.org/abs/2112.11114)
-
-About
-: Wojciech Rejchel is an assistant professor at the Department of
-Mathematics and Computer Science at Copernicus University in Torun, Poland.
-
 ### Friday, March 4 [15:30 CET][tz]
 
 #### Nghia Tran (Oakland University)
