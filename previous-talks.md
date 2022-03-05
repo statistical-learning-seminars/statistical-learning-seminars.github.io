@@ -24,11 +24,21 @@ Recordings of previous talks are hosted at
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: left">Mar 5</td>
+      <td style="text-align: left">Nghia Tran</td>
+      <td style="text-align: left">Sharp, strong, and unique minimizers for low complexity robust recovery</td>
+      <td style="text-align: left">
+        <a href="https://arxiv.org/abs/2111.05444">paper</a>,
+        <a href="https://youtu.be/KkaaC29G5tg">presentation</a>,
+      </td>
+    </tr>
+    <tr>
       <td style="text-align: left">Feb 25</td>
       <td style="text-align: left">Wojciech Rejchel</td>
       <td style="text-align: left">Selection Consistency for High-Dimensional Categorical Data</td>
       <td style="text-align: left">
-        <a href="https://arxiv.org/abs/2112.11114">paper</a>
+        <a href="https://arxiv.org/abs/2112.11114">paper</a>,
+        <a href="https://youtu.be/Fr83sTLPZFg">presentation</a>,
       </td>
     </tr>
     <tr>

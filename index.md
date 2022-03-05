@@ -44,36 +44,38 @@ To receive announcements for upcoming seminars, please join the group at
 
 ## Upcoming Talks
 
-### Friday, March 4 [15:30 CET][tz]
+TBA
 
-#### Nghia Tran (Oakland University)
+<!-- ### Friday, March 4 [15:30 CET][tz] -->
 
-Title
-: Sharp, strong, and unique minimizers for low complexity robust recovery
+<!-- #### Nghia Tran (Oakland University) -->
 
-Abstract
-: In this talk, we show the important roles of sharp minima and
-strong minima for robust recovery. We also obtain several characterizations
-of sharp minima for convex regularized optimization problems. Our
-characterizations are quantitative and verifiable especially for the case
-of decomposable norm regularized problems including sparsity,
-group-sparsity, and low-rank convex problems. For group-sparsity
-optimization problems, we show that a unique solution is a strong solution
-and obtain quantitative characterizations for solution uniqueness.
+<!-- Title -->
+<!-- : Sharp, strong, and unique minimizers for low complexity robust recovery -->
 
-<img src="/assets/profilepic-nghia-tran.png" align="right" width="200px">
+<!-- Abstract -->
+<!-- : In this talk, we show the important roles of sharp minima and -->
+<!-- strong minima for robust recovery. We also obtain several characterizations -->
+<!-- of sharp minima for convex regularized optimization problems. Our -->
+<!-- characterizations are quantitative and verifiable especially for the case -->
+<!-- of decomposable norm regularized problems including sparsity, -->
+<!-- group-sparsity, and low-rank convex problems. For group-sparsity -->
+<!-- optimization problems, we show that a unique solution is a strong solution -->
+<!-- and obtain quantitative characterizations for solution uniqueness. -->
 
-Related Work
-: [Sharp, strong and unique minimizers
-for low complexity robust recovery](https://arxiv.org/abs/2111.05444)
+<!-- <img src="/assets/profilepic-nghia-tran.png" align="right" width="200px"> -->
 
-About
-: Nghia Tran is an associate professor at the Department of Mathematics
-and Statistics at Oakland University, Rochester, Michigan, USA. His primary
-research focus has been non-smooth optimization, variational analysis, and
-applications thereof.
+<!-- Related Work -->
+<!-- : [Sharp, strong and unique minimizers -->
+<!-- for low complexity robust recovery](https://arxiv.org/abs/2111.05444) -->
 
-[tz]: https://dateful.com/convert/stockholm-sweden?t=3pm
+<!-- About -->
+<!-- : Nghia Tran is an associate professor at the Department of Mathematics -->
+<!-- and Statistics at Oakland University, Rochester, Michigan, USA. His primary -->
+<!-- research focus has been non-smooth optimization, variational analysis, and -->
+<!-- applications thereof. -->
+
+<!-- [tz]: https://dateful.com/convert/stockholm-sweden?t=3pm -->
 
 ## Organization
 
