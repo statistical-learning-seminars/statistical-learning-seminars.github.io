@@ -66,7 +66,7 @@ superiority of our new methods, especially with regard to clustering and
 stability characteristics, compared to state-of-the-art covariance matrix
 estimation techniques.
 
-<img src="/assets/profilepic-sandra-paterlini.png" align="right" width="150px">
+<img src="/assets/profilepic-sandra-paterlini.jpg" align="right" width="150px">
 
 Related Work
 : [Sparse Graphical Modeling for Minimum Variance
