@@ -44,8 +44,6 @@ To receive announcements for upcoming seminars, please join the group at
 
 ## Upcoming Talks
 
-TBA
-
 ### Friday, October 7 [15:30 CET][tz]
 
 #### Sandra Paterlini (University of Trento)
