@@ -75,10 +75,8 @@ Portfolios](https://www.researchgate.net/publication/360375794_Sparse_Graphical_
 L1-Norm](https://arxiv.org/abs/2204.10403)
 
 About
-: Nghia Tran is an associate professor at the Department of Mathematics
-and Statistics at Oakland University, Rochester, Michigan, USA. His primary
-research focus has been non-smooth optimization, variational analysis, and
-applications thereof.
+: Sandra Paterlini is a full professor at the Department of Economics and Management
+at the Univeristy of Trento, Italy.
 
 [tz]: https://dateful.com/convert/stockholm-sweden?t=3pm
 
