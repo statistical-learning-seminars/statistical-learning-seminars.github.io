@@ -46,36 +46,41 @@ To receive announcements for upcoming seminars, please join the group at
 
 TBA
 
-<!-- ### Friday, March 4 [15:30 CET][tz] -->
+### Friday, October 7 [15:30 CET][tz]
 
-<!-- #### Nghia Tran (Oakland University) -->
+#### Sandra Paterlini (University of Trento)
 
-<!-- Title -->
-<!-- : Sharp, strong, and unique minimizers for low complexity robust recovery -->
+Title
+: Sparse Graphical Modelling for Financial Applications
 
-<!-- Abstract -->
-<!-- : In this talk, we show the important roles of sharp minima and -->
-<!-- strong minima for robust recovery. We also obtain several characterizations -->
-<!-- of sharp minima for convex regularized optimization problems. Our -->
-<!-- characterizations are quantitative and verifiable especially for the case -->
-<!-- of decomposable norm regularized problems including sparsity, -->
-<!-- group-sparsity, and low-rank convex problems. For group-sparsity -->
-<!-- optimization problems, we show that a unique solution is a strong solution -->
-<!-- and obtain quantitative characterizations for solution uniqueness. -->
+Abstract
+: Graphical models have shown remarkable performance in uncovering the
+conditional dependence structure across a set of given variables. In this paper,
+we introduce two new graphical modelling approaches—called Gslope and Tslope—to
+the portfolio selection literature for directly estimating the inverse of the
+covariance matrix, using the so called Sorted L1-Penalized Estimator (SLOPE).
+Spanning Gaussian and non- Gaussian distributed data, our new methods directly
+acknowledge the empirically observed distributional characteristics of asset
+returns. Extensive simulation analysis and real-world applications highlight the
+superiority of our new methods, especially with regard to clustering and
+stability characteristics, compared to state-of-the-art covariance matrix
+estimation techniques.
 
-<!-- <img src="/assets/profilepic-nghia-tran.png" align="right" width="200px"> -->
+<img src="/assets/profilepic-sandra-paterlini.png" align="right" width="150px">
 
-<!-- Related Work -->
-<!-- : [Sharp, strong and unique minimizers -->
-<!-- for low complexity robust recovery](https://arxiv.org/abs/2111.05444) -->
+Related Work
+: [Sparse Graphical Modeling for Minimum Variance
+Portfolios](https://www.researchgate.net/publication/360375794_Sparse_Graphical_Modelling_for_Minimum_Variance_Portfolios)
+: [Sparse Graphical Modelling via the Sorted
+L1-Norm](https://arxiv.org/abs/2204.10403)
 
-<!-- About -->
-<!-- : Nghia Tran is an associate professor at the Department of Mathematics -->
-<!-- and Statistics at Oakland University, Rochester, Michigan, USA. His primary -->
-<!-- research focus has been non-smooth optimization, variational analysis, and -->
-<!-- applications thereof. -->
+About
+: Nghia Tran is an associate professor at the Department of Mathematics
+and Statistics at Oakland University, Rochester, Michigan, USA. His primary
+research focus has been non-smooth optimization, variational analysis, and
+applications thereof.
 
-<!-- [tz]: https://dateful.com/convert/stockholm-sweden?t=3pm -->
+[tz]: https://dateful.com/convert/stockholm-sweden?t=3pm
 
 ## Organization
 
