@@ -44,7 +44,7 @@ To receive announcements for upcoming seminars, please join the group at
 
 ## Upcoming Talks
 
-### Friday, October 7 [14:00 CEST][https://dateful.com/convert/stockholm-sweden?t=2pm]
+### Friday, October 7 [14:00 CEST](https://dateful.com/convert/stockholm-sweden?t=2pm)
 
 #### Sandra Paterlini (University of Trento)
 
