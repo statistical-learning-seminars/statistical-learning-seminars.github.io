@@ -44,7 +44,7 @@ To receive announcements for upcoming seminars, please join the group at
 
 ## Upcoming Talks
 
-### Friday, October 7 [15:30 CET][tz]
+### Friday, October 7 [14:00 CEST][https://dateful.com/convert/stockholm-sweden?t=2pm]
 
 #### Sandra Paterlini (University of Trento)
 
@@ -75,8 +75,6 @@ L1-Norm](https://arxiv.org/abs/2204.10403)
 About
 : Sandra Paterlini is a full professor at the Department of Economics and Management
 at the Univeristy of Trento, Italy.
-
-[tz]: https://dateful.com/convert/stockholm-sweden?t=3pm
 
 ## Organization
 
