@@ -44,37 +44,38 @@ To receive announcements for upcoming seminars, please join the group at
 
 ## Upcoming Talks
 
-### Friday, October 7 [14:00 CEST](https://dateful.com/convert/stockholm-sweden?t=2pm)
+### Friday, January 20 [15:30 CEST](https://dateful.com/convert/stockholm-sweden?t=330pm)
 
-#### Sandra Paterlini (University of Trento)
+#### Mathurin Massias (Inria, Lyon)
 
 Title
-: Sparse Graphical Modelling for Financial Applications
+: Coordinate Descent for SLOPE
 
 Abstract
-: Graphical models have shown remarkable performance in uncovering the
-conditional dependence structure across a set of given variables. In this paper,
-we introduce two new graphical modelling approaches—called Gslope and Tslope—to
-the portfolio selection literature for directly estimating the inverse of the
-covariance matrix, using the so called Sorted L1-Penalized Estimator (SLOPE).
-Spanning Gaussian and non- Gaussian distributed data, our new methods directly
-acknowledge the empirically observed distributional characteristics of asset
-returns. Extensive simulation analysis and real-world applications highlight the
-superiority of our new methods, especially with regard to clustering and
-stability characteristics, compared to state-of-the-art covariance matrix
-estimation techniques.
+: The lasso is the most famous sparse regression and feature selection 
+method. One reason for its popularity is the speed at which the 
+underlying optimization problem can be solved. Sorted L-One Penalized 
+Estimation (SLOPE) is a generalization of the lasso with appealing 
+statistical properties. In spite of this, the method has not yet reached 
+widespread interest. A major reason for this is that current software 
+packages that fit SLOPE rely on algorithms that perform poorly in high 
+dimensions. To tackle this issue, we propose a new fast algorithm to 
+solve the SLOPE optimization problem, which combines proximal gradient 
+descent and proximal coordinate descent steps. We provide new results on 
+the directional derivative of the SLOPE penalty and its related SLOPE 
+thresholding operator, as well as provide convergence guarantees for our 
+proposed solver. In extensive benchmarks on simulated and real data, we 
+show that our method outperforms a long list of competing algorithms.
 
-<img src="/assets/profilepic-sandra-paterlini.jpg" align="right" width="150px">
+<img src="/assets/pictures/mathurin-massias.jpg" align="right" width="150px">
 
 Related Work
-: [Sparse Graphical Modeling for Minimum Variance
-Portfolios](https://www.researchgate.net/publication/360375794_Sparse_Graphical_Modelling_for_Minimum_Variance_Portfolios)
-: [Sparse Graphical Modelling via the Sorted
-L1-Norm](https://arxiv.org/abs/2204.10403)
+: [Coordinate Descent for SLOPE](https://arxiv.org/abs/2210.14780)
 
 About
-: Sandra Paterlini is a full professor at the Department of Economics and Management
-at the Univeristy of Trento, Italy.
+: Mathurin Massias is a junior researcher at Inria, Lyon. Please visit his
+profile page at <https://mathurinm.github.io> for more information about
+his work.
 
 ## Organization
 
