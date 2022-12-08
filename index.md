@@ -44,7 +44,7 @@ To receive announcements for upcoming seminars, please join the group at
 
 ## Upcoming Talks
 
-### Friday, January 20 [15:30 CEST](https://dateful.com/convert/stockholm-sweden?t=330pm)
+### Friday, January 20 [15:30 CET](https://dateful.com/convert/stockholm-sweden?t=330pm)
 
 #### Mathurin Massias (Inria, Lyon)
 
