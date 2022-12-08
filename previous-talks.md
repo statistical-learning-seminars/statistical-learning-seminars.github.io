@@ -65,6 +65,8 @@ Recordings of previous talks are hosted at
       <th style="text-align: left">Title</th>
       <th style="text-align: left">Resources</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
       <td style="text-align: left">Oct 15</td>
       <td style="text-align: left">Olof Zetterqvist</td>
