@@ -11,6 +11,33 @@ title: Previous Talks
 Recordings of previous talks are hosted at
 <https://www.youtube.com/channel/UCfRCi0V-3mvax-nWSadgMBQ>.
 
+## 2023
+
+<table class="talks">
+  <thead>
+    <tr>
+      <th style="text-align: left">Date</th>
+      <th style="text-align: left">Speaker</th>
+      <th style="text-align: left">Title</th>
+      <th style="text-align: left">Resources</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Jan 20</td>
+      <td style="text-align: left">Mathurin Massias</td>
+      <td style="text-align: left">Coordinate Descent for SLOPE</td>
+      <td style="text-align: left">
+        <a href="https://arxiv.org/abs/2210.14780">paper</a>,
+        <a href="https://youtu.be/hobgYsWGlDs">presentation</a>,
+        <a href="/slides/230120-massias.pdf">slides</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
 ## 2022
 
 <table class="talks">
@@ -29,7 +56,7 @@ Recordings of previous talks are hosted at
       <td style="text-align: left">Sharp, strong, and unique minimizers for low complexity robust recovery</td>
       <td style="text-align: left">
         <a href="https://arxiv.org/abs/2111.05444">paper</a>,
-        <a href="https://youtu.be/KkaaC29G5tg">presentation</a>,
+        <a href="https://youtu.be/KkaaC29G5tg">presentation</a>
       </td>
     </tr>
     <tr>
@@ -38,7 +65,7 @@ Recordings of previous talks are hosted at
       <td style="text-align: left">Selection Consistency for High-Dimensional Categorical Data</td>
       <td style="text-align: left">
         <a href="https://arxiv.org/abs/2112.11114">paper</a>,
-        <a href="https://youtu.be/Fr83sTLPZFg">presentation</a>,
+        <a href="https://youtu.be/Fr83sTLPZFg">presentation</a>
       </td>
     </tr>
     <tr>

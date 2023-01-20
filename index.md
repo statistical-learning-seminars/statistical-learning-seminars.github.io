@@ -44,38 +44,40 @@ To receive announcements for upcoming seminars, please join the group at
 
 ## Upcoming Talks
 
-### Friday, January 20 [15:30 CET](https://dateful.com/convert/stockholm-sweden?t=330pm)
+### TBA
 
-#### Mathurin Massias (Inria, Lyon)
-
-Title
-: Coordinate Descent for SLOPE
-
-Abstract
-: The lasso is the most famous sparse regression and feature selection 
-method. One reason for its popularity is the speed at which the 
-underlying optimization problem can be solved. Sorted L-One Penalized 
-Estimation (SLOPE) is a generalization of the lasso with appealing 
-statistical properties. In spite of this, the method has not yet reached 
-widespread interest. A major reason for this is that current software 
-packages that fit SLOPE rely on algorithms that perform poorly in high 
-dimensions. To tackle this issue, we propose a new fast algorithm to 
-solve the SLOPE optimization problem, which combines proximal gradient 
-descent and proximal coordinate descent steps. We provide new results on 
-the directional derivative of the SLOPE penalty and its related SLOPE 
-thresholding operator, as well as provide convergence guarantees for our 
-proposed solver. In extensive benchmarks on simulated and real data, we 
-show that our method outperforms a long list of competing algorithms.
-
-<img src="/assets/pictures/mathurin-massias.jpg" align="right" width="150px">
-
-Related Work
-: [Coordinate Descent for SLOPE](https://arxiv.org/abs/2210.14780)
-
-About
-: Mathurin Massias is a junior researcher at Inria, Lyon. Please visit his
-profile page at <https://mathurinm.github.io> for more information about
-his work.
+<!-- ### Friday, January 20 [15:30 CET](https://dateful.com/convert/stockholm-sweden?t=330pm) -->
+<!---->
+<!-- #### Mathurin Massias (Inria, Lyon) -->
+<!---->
+<!-- Title -->
+<!-- : Coordinate Descent for SLOPE -->
+<!---->
+<!-- Abstract -->
+<!-- : The lasso is the most famous sparse regression and feature selection  -->
+<!-- method. One reason for its popularity is the speed at which the  -->
+<!-- underlying optimization problem can be solved. Sorted L-One Penalized  -->
+<!-- Estimation (SLOPE) is a generalization of the lasso with appealing  -->
+<!-- statistical properties. In spite of this, the method has not yet reached  -->
+<!-- widespread interest. A major reason for this is that current software  -->
+<!-- packages that fit SLOPE rely on algorithms that perform poorly in high  -->
+<!-- dimensions. To tackle this issue, we propose a new fast algorithm to  -->
+<!-- solve the SLOPE optimization problem, which combines proximal gradient  -->
+<!-- descent and proximal coordinate descent steps. We provide new results on  -->
+<!-- the directional derivative of the SLOPE penalty and its related SLOPE  -->
+<!-- thresholding operator, as well as provide convergence guarantees for our  -->
+<!-- proposed solver. In extensive benchmarks on simulated and real data, we  -->
+<!-- show that our method outperforms a long list of competing algorithms. -->
+<!---->
+<!-- <img src="/assets/pictures/mathurin-massias.jpg" align="right" width="150px"> -->
+<!---->
+<!-- Related Work -->
+<!-- : [Coordinate Descent for SLOPE](https://arxiv.org/abs/2210.14780) -->
+<!---->
+<!-- About -->
+<!-- : Mathurin Massias is a junior researcher at Inria, Lyon. Please visit his -->
+<!-- profile page at <https://mathurinm.github.io> for more information about -->
+<!-- his work. -->
 
 ## Organization
 
